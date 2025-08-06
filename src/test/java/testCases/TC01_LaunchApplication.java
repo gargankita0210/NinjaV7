@@ -4,8 +4,6 @@ import org.testng.annotations.Test;
 import org.testng.Assert;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-
-import pageObjects.HomePage;
 import testBase.BaseClass;
 import utilities.RetryAnalyzer;
 
@@ -18,9 +16,6 @@ public class TC01_LaunchApplication extends BaseClass {
         logger.debug("Test started: launchApp");
 
         try {
-            HomePage homePage = new HomePage(getDriver());
-            logger.debug("HomePage object created");
-
             String actualTitle = homePage.getTitle();
             logger.debug("Retrieved page title: " + actualTitle);
 

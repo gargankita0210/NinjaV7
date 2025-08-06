@@ -1,1518 +1,168 @@
-2025-08-01 10:39:28 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 10:39:28 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 10:39:28 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:39:28 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:39:30 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 10:39:30 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 10:39:30 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:39:30 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:39:30 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 10:39:30 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 10:39:30 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:39:30 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:39:30 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 10:39:30 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 10:39:30 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:39:30 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:39:30 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 10:39:30 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 10:39:30 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:39:30 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:39:30 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 10:39:30 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 10:39:30 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:39:30 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:39:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:32 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:32 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:32 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:32 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:32 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:32 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:32 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:33 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:33 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:34 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:34 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:34 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:34 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:39:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:39:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:34 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:39:34 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:39:34 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:40:54 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 10:40:54 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 10:40:54 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:40:54 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:41:03 DEBUG BaseClass:123 - FirefoxDriver initialized
-2025-08-01 10:41:03 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 10:41:05 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 10:41:06 DEBUG TC06_Affiliate:19 - Test started: testAffiliate
-2025-08-01 10:41:06 DEBUG TC06_Affiliate:23 - This is a DEBUG log
-2025-08-01 10:41:06 INFO  TC06_Affiliate:24 - This is an INFO log
-2025-08-01 10:41:06 ERROR TC06_Affiliate:25 - This is an ERROR log
-2025-08-01 10:41:06 DEBUG TC06_Affiliate:27 - Clicked 'My Account'
-2025-08-01 10:41:06 DEBUG TC06_Affiliate:30 - Clicked 'Login'
-2025-08-01 10:41:06 DEBUG TC06_Affiliate:33 - Entered email
-2025-08-01 10:41:07 DEBUG TC06_Affiliate:36 - Entered password
-2025-08-01 10:41:07 DEBUG TC06_Affiliate:39 - Clicked 'Login' button
-2025-08-01 10:41:07 DEBUG TC06_Affiliate:42 - Waited 0.5 seconds before proceeding to Affiliate section
-2025-08-01 10:41:08 DEBUG TC06_Affiliate:45 - Clicked on 'Affiliate' link
-2025-08-01 10:41:09 DEBUG TC06_Affiliate:48 - Set company
-2025-08-01 10:41:09 DEBUG TC06_Affiliate:51 - Set website
-2025-08-01 10:41:09 DEBUG TC06_Affiliate:54 - Set tax information
-2025-08-01 10:41:09 DEBUG TC06_Affiliate:57 - Set cheque payment method
-2025-08-01 10:41:09 DEBUG TC06_Affiliate:60 - Waited 0.5 seconds before clicking Continue
-2025-08-01 10:41:10 DEBUG TC06_Affiliate:63 - Clicked 'Continue' button
-2025-08-01 10:41:10 DEBUG TC06_Affiliate:66 - Alert box status: true
-2025-08-01 10:41:10 INFO  TC06_Affiliate:69 - Affiliate registration success verified
-2025-08-01 10:41:10 DEBUG TC06_Affiliate:79 - Test ended: testAffiliate
-2025-08-01 10:41:12 DEBUG BaseClass:179 - Browser closed for thread: 36
-2025-08-01 10:41:12 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 10:41:12 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:41:19 DEBUG BaseClass:123 - FirefoxDriver initialized
-2025-08-01 10:41:19 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 10:41:21 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 10:41:21 DEBUG TC04_CompleteCheckOut:18 - Test started: testCheckOut
-2025-08-01 10:41:22 DEBUG TC04_CompleteCheckOut:22 - Clicked 'My Account'
-2025-08-01 10:41:23 DEBUG TC04_CompleteCheckOut:25 - Clicked 'Login'
-2025-08-01 10:41:23 DEBUG TC04_CompleteCheckOut:28 - Entered email
-2025-08-01 10:41:23 DEBUG TC04_CompleteCheckOut:31 - Entered password
-2025-08-01 10:41:23 DEBUG TC04_CompleteCheckOut:34 - Clicked login
-2025-08-01 10:41:24 DEBUG TC04_CompleteCheckOut:37 - Waited 1 second after login
-2025-08-01 10:41:24 DEBUG TC04_CompleteCheckOut:40 - Clicked on 'Laptops & Notebooks'
-2025-08-01 10:41:25 DEBUG TC04_CompleteCheckOut:43 - Clicked 'Show All' under Laptops
-2025-08-01 10:41:25 DEBUG TC04_CompleteCheckOut:47 - Scrolled down the window
-2025-08-01 10:41:25 DEBUG TC04_CompleteCheckOut:50 - Selected product 'HP LP3065'
-2025-08-01 10:41:25 DEBUG TC04_CompleteCheckOut:53 - Formatted delivery date: 2025-08-06
-2025-08-01 10:41:26 DEBUG TC04_CompleteCheckOut:56 - Set delivery date
-2025-08-01 10:41:26 DEBUG TC04_CompleteCheckOut:59 - Clicked 'Add to Cart'
-2025-08-01 10:41:26 DEBUG TC04_CompleteCheckOut:63 - Alert text: Success: You have added HP LP3065 to your shopping cart!
-2025-08-01 10:41:26 INFO  TC04_CompleteCheckOut:65 - Item added to cart successfully
-2025-08-01 10:41:26 DEBUG TC04_CompleteCheckOut:68 - Clicked 'Checkout'
-2025-08-01 10:41:27 DEBUG TC04_CompleteCheckOut:71 - Selected shipping address
-2025-08-01 10:41:28 DEBUG TC04_CompleteCheckOut:75 - Selected and continued shipping method
-2025-08-01 10:41:28 DEBUG TC04_CompleteCheckOut:79 - Selected and continued payment method
-2025-08-01 10:41:31 DEBUG TC04_CompleteCheckOut:82 - Clicked 'Confirm Order'
-2025-08-01 10:41:31 DEBUG TC04_CompleteCheckOut:86 - Order confirmation message: Your order has been placed!
-2025-08-01 10:41:31 INFO  TC04_CompleteCheckOut:88 - Order placed successfully
-2025-08-01 10:41:31 DEBUG TC04_CompleteCheckOut:98 - Test ended: testCheckOut
-2025-08-01 10:41:33 DEBUG BaseClass:179 - Browser closed for thread: 36
-2025-08-01 10:41:33 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 10:41:33 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:41:41 DEBUG BaseClass:123 - FirefoxDriver initialized
-2025-08-01 10:41:41 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 10:41:43 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 10:41:43 DEBUG TC01_LaunchApplication:18 - Test started: launchApp
-2025-08-01 10:41:43 DEBUG TC01_LaunchApplication:22 - HomePage object created
-2025-08-01 10:41:43 DEBUG TC01_LaunchApplication:25 - Retrieved page title: Your store of fun
-2025-08-01 10:41:43 DEBUG TC01_LaunchApplication:28 - Assertion passed: Title matched expected value
-2025-08-01 10:41:43 DEBUG TC01_LaunchApplication:38 - Test ended: launchApp
-2025-08-01 10:41:44 DEBUG BaseClass:179 - Browser closed for thread: 36
-2025-08-01 10:41:44 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 10:41:44 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:41:52 DEBUG BaseClass:123 - FirefoxDriver initialized
-2025-08-01 10:41:52 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 10:41:54 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 10:41:54 DEBUG TC03_AddToCart:17 - Test started: testAddToCart
-2025-08-01 10:41:54 DEBUG TC03_AddToCart:21 - Clicked 'My Account'
-2025-08-01 10:41:54 DEBUG TC03_AddToCart:24 - Clicked 'Login'
-2025-08-01 10:41:55 DEBUG TC03_AddToCart:27 - Entered email
-2025-08-01 10:41:55 DEBUG TC03_AddToCart:30 - Entered password
-2025-08-01 10:41:55 DEBUG TC03_AddToCart:33 - Clicked login
-2025-08-01 10:41:56 DEBUG TC03_AddToCart:36 - Waited for 1 second
-2025-08-01 10:41:56 DEBUG TC03_AddToCart:39 - Clicked 'Laptops & Notebooks' menu
-2025-08-01 10:41:57 DEBUG TC03_AddToCart:42 - Clicked 'Show All'
-2025-08-01 10:41:57 DEBUG TC03_AddToCart:46 - Scrolled window
-2025-08-01 10:41:57 DEBUG TC03_AddToCart:49 - Clicked on product 'HP LP3065'
-2025-08-01 10:41:57 DEBUG TC03_AddToCart:52 - Formatted date: 2025-08-06
-2025-08-01 10:41:57 DEBUG TC03_AddToCart:55 - Set delivery date
-2025-08-01 10:41:57 DEBUG TC03_AddToCart:58 - Clicked 'Add to Cart'
-2025-08-01 10:41:57 DEBUG TC03_AddToCart:62 - Alert message: Success: You have added HP LP3065 to your shopping cart!
-2025-08-01 10:41:57 INFO  TC03_AddToCart:65 - Item successfully added to cart
-2025-08-01 10:41:57 DEBUG TC03_AddToCart:75 - Test ended: testAddToCart
-2025-08-01 10:41:59 DEBUG BaseClass:179 - Browser closed for thread: 36
-2025-08-01 10:41:59 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 10:41:59 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:42:06 DEBUG BaseClass:123 - FirefoxDriver initialized
-2025-08-01 10:42:07 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 10:42:09 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 10:42:09 DEBUG TC05_AddToWishlist:17 - Test started: testAddToWishList
-2025-08-01 10:42:09 DEBUG TC05_AddToWishlist:21 - Clicked 'My Account'
-2025-08-01 10:42:10 DEBUG TC05_AddToWishlist:24 - Clicked 'Login'
-2025-08-01 10:42:10 DEBUG TC05_AddToWishlist:27 - Entered email
-2025-08-01 10:42:10 DEBUG TC05_AddToWishlist:30 - Entered password
-2025-08-01 10:42:10 DEBUG TC05_AddToWishlist:33 - Clicked 'Login' button
-2025-08-01 10:42:11 DEBUG TC05_AddToWishlist:36 - Waited for 1 second
-2025-08-01 10:42:11 DEBUG TC05_AddToWishlist:39 - Clicked 'Laptops & Notebooks' menu
-2025-08-01 10:42:12 DEBUG TC05_AddToWishlist:42 - Clicked 'Show All' under Laptops
-2025-08-01 10:42:13 DEBUG TC05_AddToWishlist:45 - Clicked 'Add to Wishlist' on product
-2025-08-01 10:42:13 DEBUG TC05_AddToWishlist:48 - Alert text received: Success: You have added HP LP3065 to your wish list!
-2025-08-01 10:42:13 INFO  TC05_AddToWishlist:51 - Item successfully added to wishlist
-2025-08-01 10:42:13 DEBUG TC05_AddToWishlist:61 - Test ended: testAddToWishList
-2025-08-01 10:42:14 DEBUG BaseClass:179 - Browser closed for thread: 36
-2025-08-01 10:42:14 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 10:42:14 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:42:21 DEBUG BaseClass:123 - FirefoxDriver initialized
-2025-08-01 10:42:21 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 10:42:23 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 10:42:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:42:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:42:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:42:25 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:42:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:42:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:42:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:42:26 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:42:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:42:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:42:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:42:26 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:42:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:42:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:42:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:42:26 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:42:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:42:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:42:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:42:26 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:42:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:42:26 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:42:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:42:27 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:42:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:42:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:42:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:42:27 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:42:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:42:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:42:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:42:27 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:42:27 DEBUG BaseClass:115 - ChromeDriver initialized
-2025-08-01 10:42:27 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 10:42:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:42:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:42:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:42:28 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:42:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:42:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:42:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:42:28 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:42:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:42:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:42:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:42:28 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:42:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:42:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:42:28 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:42:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:42:29 DEBUG TC02_Login:22 - Test started: testLogin with userName=smitasharma.qa@gmail.com
-2025-08-01 10:42:29 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 10:42:29 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 10:42:30 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 10:42:30 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 10:42:30 DEBUG TC02_Login:38 - Entered email
-2025-08-01 10:42:30 DEBUG TC02_Login:41 - Entered password
-2025-08-01 10:42:30 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 10:42:30 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 10:42:31 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 10:42:31 INFO  TC02_Login:53 - Login successful for user: smitasharma.qa@gmail.com
-2025-08-01 10:42:31 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 10:42:31 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 10:42:31 DEBUG TC02_Login:72 - Test ended: testLogin for userName=smitasharma.qa@gmail.com
-2025-08-01 10:42:31 DEBUG TC02_Login:22 - Test started: testLogin with userName=nona@yahoo.com
-2025-08-01 10:42:31 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 10:42:31 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 10:42:32 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 10:42:32 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 10:42:32 DEBUG TC02_Login:38 - Entered email
-2025-08-01 10:42:32 DEBUG TC02_Login:41 - Entered password
-2025-08-01 10:42:32 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 10:42:32 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 10:42:32 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 10:42:32 INFO  TC02_Login:53 - Login successful for user: nona@yahoo.com
-2025-08-01 10:42:32 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 10:42:33 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 10:42:33 DEBUG TC02_Login:72 - Test ended: testLogin for userName=nona@yahoo.com
-2025-08-01 10:42:33 DEBUG TC02_Login:22 - Test started: testLogin with userName=sid@cloudberry.services
-2025-08-01 10:42:33 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 10:42:33 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 10:42:33 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 10:42:33 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 10:42:33 DEBUG TC02_Login:38 - Entered email
-2025-08-01 10:42:33 DEBUG TC02_Login:41 - Entered password
-2025-08-01 10:42:33 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 10:42:33 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 10:42:33 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 10:42:33 DEBUG TC06_Affiliate:19 - Test started: testAffiliate
-2025-08-01 10:42:33 DEBUG TC06_Affiliate:23 - This is a DEBUG log
-2025-08-01 10:42:33 INFO  TC06_Affiliate:24 - This is an INFO log
-2025-08-01 10:42:33 ERROR TC06_Affiliate:25 - This is an ERROR log
-2025-08-01 10:42:34 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 10:42:34 INFO  TC02_Login:53 - Login successful for user: sid@cloudberry.services
-2025-08-01 10:42:34 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 10:42:34 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 10:42:34 DEBUG TC02_Login:72 - Test ended: testLogin for userName=sid@cloudberry.services
-2025-08-01 10:42:34 DEBUG TC02_Login:22 - Test started: testLogin with userName=apushedwoman@gmail.com
-2025-08-01 10:42:34 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 10:42:34 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 10:42:35 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 10:42:35 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 10:42:35 DEBUG TC02_Login:38 - Entered email
-2025-08-01 10:42:35 DEBUG TC02_Login:41 - Entered password
-2025-08-01 10:42:35 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 10:42:35 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 10:42:35 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 10:42:35 INFO  TC02_Login:53 - Login successful for user: apushedwoman@gmail.com
-2025-08-01 10:42:35 DEBUG TC06_Affiliate:27 - Clicked 'My Account'
-2025-08-01 10:42:35 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 10:42:36 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 10:42:36 DEBUG TC02_Login:72 - Test ended: testLogin for userName=apushedwoman@gmail.com
-2025-08-01 10:42:36 DEBUG TC02_Login:22 - Test started: testLogin with userName=hichamkhachiai@gmail.com
-2025-08-01 10:42:36 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 10:42:36 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 10:42:36 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 10:42:36 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 10:42:36 DEBUG TC02_Login:38 - Entered email
-2025-08-01 10:42:36 DEBUG TC02_Login:41 - Entered password
-2025-08-01 10:42:36 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 10:42:36 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 10:42:37 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 10:42:37 INFO  TC02_Login:53 - Login successful for user: hichamkhachiai@gmail.com
-2025-08-01 10:42:37 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 10:42:37 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 10:42:37 DEBUG TC02_Login:72 - Test ended: testLogin for userName=hichamkhachiai@gmail.com
-2025-08-01 10:42:37 DEBUG TC06_Affiliate:30 - Clicked 'Login'
-2025-08-01 10:42:38 DEBUG TC06_Affiliate:33 - Entered email
-2025-08-01 10:42:38 DEBUG BaseClass:179 - Browser closed for thread: 36
-2025-08-01 10:42:38 DEBUG TC06_Affiliate:36 - Entered password
-2025-08-01 10:42:41 DEBUG TC06_Affiliate:39 - Clicked 'Login' button
-2025-08-01 10:42:42 DEBUG TC06_Affiliate:42 - Waited 0.5 seconds before proceeding to Affiliate section
-2025-08-01 10:42:44 DEBUG TC06_Affiliate:45 - Clicked on 'Affiliate' link
-2025-08-01 10:42:44 DEBUG TC06_Affiliate:48 - Set company
-2025-08-01 10:42:44 DEBUG TC06_Affiliate:51 - Set website
-2025-08-01 10:42:44 DEBUG TC06_Affiliate:54 - Set tax information
-2025-08-01 10:42:45 DEBUG TC06_Affiliate:57 - Set cheque payment method
-2025-08-01 10:42:45 DEBUG TC06_Affiliate:60 - Waited 0.5 seconds before clicking Continue
-2025-08-01 10:42:46 DEBUG TC06_Affiliate:63 - Clicked 'Continue' button
-2025-08-01 10:42:47 DEBUG TC06_Affiliate:66 - Alert box status: true
-2025-08-01 10:42:47 INFO  TC06_Affiliate:69 - Affiliate registration success verified
-2025-08-01 10:42:47 DEBUG TC06_Affiliate:79 - Test ended: testAffiliate
-2025-08-01 10:42:47 DEBUG BaseClass:179 - Browser closed for thread: 35
-2025-08-01 10:42:47 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 10:42:47 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:42:56 DEBUG BaseClass:115 - ChromeDriver initialized
-2025-08-01 10:42:56 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 10:42:59 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 10:42:59 DEBUG TC04_CompleteCheckOut:18 - Test started: testCheckOut
-2025-08-01 10:43:01 DEBUG TC04_CompleteCheckOut:22 - Clicked 'My Account'
-2025-08-01 10:43:02 DEBUG TC04_CompleteCheckOut:25 - Clicked 'Login'
-2025-08-01 10:43:03 DEBUG TC04_CompleteCheckOut:28 - Entered email
-2025-08-01 10:43:03 DEBUG TC04_CompleteCheckOut:31 - Entered password
-2025-08-01 10:43:05 DEBUG TC04_CompleteCheckOut:34 - Clicked login
-2025-08-01 10:43:06 DEBUG TC04_CompleteCheckOut:37 - Waited 1 second after login
-2025-08-01 10:43:06 DEBUG TC04_CompleteCheckOut:40 - Clicked on 'Laptops & Notebooks'
-2025-08-01 10:43:07 DEBUG TC04_CompleteCheckOut:43 - Clicked 'Show All' under Laptops
-2025-08-01 10:43:07 DEBUG TC04_CompleteCheckOut:47 - Scrolled down the window
-2025-08-01 10:43:08 DEBUG TC04_CompleteCheckOut:50 - Selected product 'HP LP3065'
-2025-08-01 10:43:08 DEBUG TC04_CompleteCheckOut:53 - Formatted delivery date: 2025-08-06
-2025-08-01 10:43:09 DEBUG TC04_CompleteCheckOut:56 - Set delivery date
-2025-08-01 10:43:09 DEBUG TC04_CompleteCheckOut:59 - Clicked 'Add to Cart'
-2025-08-01 10:43:10 DEBUG TC04_CompleteCheckOut:63 - Alert text: Success: You have added HP LP3065 to your shopping cart!
-2025-08-01 10:43:10 INFO  TC04_CompleteCheckOut:65 - Item added to cart successfully
-2025-08-01 10:43:11 DEBUG TC04_CompleteCheckOut:68 - Clicked 'Checkout'
-2025-08-01 10:43:11 DEBUG TC04_CompleteCheckOut:71 - Selected shipping address
-2025-08-01 10:43:12 DEBUG TC04_CompleteCheckOut:75 - Selected and continued shipping method
-2025-08-01 10:43:13 DEBUG TC04_CompleteCheckOut:79 - Selected and continued payment method
-2025-08-01 10:43:17 DEBUG TC04_CompleteCheckOut:82 - Clicked 'Confirm Order'
-2025-08-01 10:43:17 DEBUG TC04_CompleteCheckOut:86 - Order confirmation message: Your order has been placed!
-2025-08-01 10:43:17 INFO  TC04_CompleteCheckOut:88 - Order placed successfully
-2025-08-01 10:43:17 DEBUG TC04_CompleteCheckOut:98 - Test ended: testCheckOut
-2025-08-01 10:43:18 DEBUG BaseClass:179 - Browser closed for thread: 35
-2025-08-01 10:43:18 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 10:43:18 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:43:26 DEBUG BaseClass:115 - ChromeDriver initialized
-2025-08-01 10:43:26 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 10:43:30 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 10:43:30 DEBUG TC01_LaunchApplication:18 - Test started: launchApp
-2025-08-01 10:43:30 DEBUG TC01_LaunchApplication:22 - HomePage object created
-2025-08-01 10:43:30 DEBUG TC01_LaunchApplication:25 - Retrieved page title: Your store of fun
-2025-08-01 10:43:30 DEBUG TC01_LaunchApplication:28 - Assertion passed: Title matched expected value
-2025-08-01 10:43:30 DEBUG TC01_LaunchApplication:38 - Test ended: launchApp
-2025-08-01 10:43:30 DEBUG BaseClass:179 - Browser closed for thread: 35
-2025-08-01 10:43:30 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 10:43:30 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:43:39 DEBUG BaseClass:115 - ChromeDriver initialized
-2025-08-01 10:43:39 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 10:43:42 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 10:43:42 DEBUG TC03_AddToCart:17 - Test started: testAddToCart
-2025-08-01 10:43:44 DEBUG TC03_AddToCart:21 - Clicked 'My Account'
-2025-08-01 10:43:45 DEBUG TC03_AddToCart:24 - Clicked 'Login'
-2025-08-01 10:43:46 DEBUG TC03_AddToCart:27 - Entered email
-2025-08-01 10:43:46 DEBUG TC03_AddToCart:30 - Entered password
-2025-08-01 10:43:48 DEBUG TC03_AddToCart:33 - Clicked login
-2025-08-01 10:43:49 DEBUG TC03_AddToCart:36 - Waited for 1 second
-2025-08-01 10:43:50 DEBUG TC03_AddToCart:39 - Clicked 'Laptops & Notebooks' menu
-2025-08-01 10:43:51 DEBUG TC03_AddToCart:42 - Clicked 'Show All'
-2025-08-01 10:43:51 DEBUG TC03_AddToCart:46 - Scrolled window
-2025-08-01 10:43:51 DEBUG TC03_AddToCart:49 - Clicked on product 'HP LP3065'
-2025-08-01 10:43:51 DEBUG TC03_AddToCart:52 - Formatted date: 2025-08-06
-2025-08-01 10:43:52 DEBUG TC03_AddToCart:55 - Set delivery date
-2025-08-01 10:43:53 DEBUG TC03_AddToCart:58 - Clicked 'Add to Cart'
-2025-08-01 10:43:53 DEBUG TC03_AddToCart:62 - Alert message: Success: You have added HP LP3065 to your shopping cart!
-2025-08-01 10:43:53 INFO  TC03_AddToCart:65 - Item successfully added to cart
-2025-08-01 10:43:53 DEBUG TC03_AddToCart:75 - Test ended: testAddToCart
-2025-08-01 10:43:54 DEBUG BaseClass:179 - Browser closed for thread: 35
-2025-08-01 10:43:54 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 10:43:54 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:44:02 DEBUG BaseClass:115 - ChromeDriver initialized
-2025-08-01 10:44:02 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 10:44:06 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 10:44:06 DEBUG TC05_AddToWishlist:17 - Test started: testAddToWishList
-2025-08-01 10:44:07 DEBUG TC05_AddToWishlist:21 - Clicked 'My Account'
-2025-08-01 10:44:08 DEBUG TC05_AddToWishlist:24 - Clicked 'Login'
-2025-08-01 10:44:09 DEBUG TC05_AddToWishlist:27 - Entered email
-2025-08-01 10:44:09 DEBUG TC05_AddToWishlist:30 - Entered password
-2025-08-01 10:44:11 DEBUG TC05_AddToWishlist:33 - Clicked 'Login' button
-2025-08-01 10:44:12 DEBUG TC05_AddToWishlist:36 - Waited for 1 second
-2025-08-01 10:44:13 DEBUG TC05_AddToWishlist:39 - Clicked 'Laptops & Notebooks' menu
-2025-08-01 10:44:14 DEBUG TC05_AddToWishlist:42 - Clicked 'Show All' under Laptops
-2025-08-01 10:44:16 DEBUG TC05_AddToWishlist:45 - Clicked 'Add to Wishlist' on product
-2025-08-01 10:44:17 DEBUG TC05_AddToWishlist:48 - Alert text received: Success: You have added HP LP3065 to your wish list!
-2025-08-01 10:44:17 INFO  TC05_AddToWishlist:51 - Item successfully added to wishlist
-2025-08-01 10:44:17 DEBUG TC05_AddToWishlist:61 - Test ended: testAddToWishList
-2025-08-01 10:44:17 DEBUG BaseClass:179 - Browser closed for thread: 35
-2025-08-01 10:44:17 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 10:44:17 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 10:44:25 DEBUG BaseClass:115 - ChromeDriver initialized
-2025-08-01 10:44:25 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 10:44:29 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 10:44:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:44:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:44:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:44:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:44:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:44:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:44:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:44:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:44:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:44:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:44:29 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:44:29 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:44:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:44:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:44:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:44:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:44:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:44:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:44:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:44:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 10:44:30 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 10:44:30 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 10:44:30 DEBUG TC02_Login:22 - Test started: testLogin with userName=smitasharma.qa@gmail.com
-2025-08-01 10:44:30 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 10:44:31 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 10:44:33 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 10:44:33 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 10:44:35 DEBUG TC02_Login:38 - Entered email
-2025-08-01 10:44:35 DEBUG TC02_Login:41 - Entered password
-2025-08-01 10:44:36 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 10:44:36 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 10:44:37 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 10:44:37 INFO  TC02_Login:53 - Login successful for user: smitasharma.qa@gmail.com
-2025-08-01 10:44:37 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 10:44:38 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 10:44:38 DEBUG TC02_Login:72 - Test ended: testLogin for userName=smitasharma.qa@gmail.com
-2025-08-01 10:44:38 DEBUG TC02_Login:22 - Test started: testLogin with userName=nona@yahoo.com
-2025-08-01 10:44:38 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 10:44:38 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 10:44:39 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 10:44:39 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 10:44:39 DEBUG TC02_Login:38 - Entered email
-2025-08-01 10:44:39 DEBUG TC02_Login:41 - Entered password
-2025-08-01 10:44:39 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 10:44:39 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 10:44:40 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 10:44:40 INFO  TC02_Login:53 - Login successful for user: nona@yahoo.com
-2025-08-01 10:44:40 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 10:44:40 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 10:44:40 DEBUG TC02_Login:72 - Test ended: testLogin for userName=nona@yahoo.com
-2025-08-01 10:44:40 DEBUG TC02_Login:22 - Test started: testLogin with userName=sid@cloudberry.services
-2025-08-01 10:44:40 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 10:44:40 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 10:44:41 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 10:44:41 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 10:44:41 DEBUG TC02_Login:38 - Entered email
-2025-08-01 10:44:41 DEBUG TC02_Login:41 - Entered password
-2025-08-01 10:44:41 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 10:44:41 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 10:44:41 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 10:44:41 INFO  TC02_Login:53 - Login successful for user: sid@cloudberry.services
-2025-08-01 10:44:41 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 10:44:42 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 10:44:42 DEBUG TC02_Login:72 - Test ended: testLogin for userName=sid@cloudberry.services
-2025-08-01 10:44:42 DEBUG TC02_Login:22 - Test started: testLogin with userName=apushedwoman@gmail.com
-2025-08-01 10:44:42 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 10:44:42 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 10:44:42 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 10:44:42 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 10:44:42 DEBUG TC02_Login:38 - Entered email
-2025-08-01 10:44:42 DEBUG TC02_Login:41 - Entered password
-2025-08-01 10:44:42 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 10:44:42 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 10:44:43 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 10:44:43 INFO  TC02_Login:53 - Login successful for user: apushedwoman@gmail.com
-2025-08-01 10:44:43 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 10:44:43 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 10:44:43 DEBUG TC02_Login:72 - Test ended: testLogin for userName=apushedwoman@gmail.com
-2025-08-01 10:44:43 DEBUG TC02_Login:22 - Test started: testLogin with userName=hichamkhachiai@gmail.com
-2025-08-01 10:44:43 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 10:44:43 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 10:44:43 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 10:44:43 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 10:44:44 DEBUG TC02_Login:38 - Entered email
-2025-08-01 10:44:44 DEBUG TC02_Login:41 - Entered password
-2025-08-01 10:44:44 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 10:44:44 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 10:44:44 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 10:44:44 INFO  TC02_Login:53 - Login successful for user: hichamkhachiai@gmail.com
-2025-08-01 10:44:44 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 10:44:44 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 10:44:44 DEBUG TC02_Login:72 - Test ended: testLogin for userName=hichamkhachiai@gmail.com
-2025-08-01 10:44:44 DEBUG BaseClass:179 - Browser closed for thread: 35
-2025-08-01 11:36:26 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 11:36:26 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 11:36:26 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 11:36:26 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 11:36:29 DEBUG BaseClass:115 - ChromeDriver initialized
-2025-08-01 11:36:29 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 11:36:30 DEBUG BaseClass:123 - FirefoxDriver initialized
-2025-08-01 11:36:30 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 11:36:31 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 11:36:31 DEBUG TC06_Affiliate:19 - Test started: testAffiliate
-2025-08-01 11:36:31 DEBUG TC06_Affiliate:23 - This is a DEBUG log
-2025-08-01 11:36:31 INFO  TC06_Affiliate:24 - This is an INFO log
-2025-08-01 11:36:31 ERROR TC06_Affiliate:25 - This is an ERROR log
-2025-08-01 11:36:31 DEBUG TC06_Affiliate:27 - Clicked 'My Account'
-2025-08-01 11:36:31 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 11:36:31 DEBUG TC06_Affiliate:19 - Test started: testAffiliate
-2025-08-01 11:36:31 DEBUG TC06_Affiliate:23 - This is a DEBUG log
-2025-08-01 11:36:31 INFO  TC06_Affiliate:24 - This is an INFO log
-2025-08-01 11:36:31 ERROR TC06_Affiliate:25 - This is an ERROR log
-2025-08-01 11:36:31 DEBUG TC06_Affiliate:30 - Clicked 'Login'
-2025-08-01 11:36:31 DEBUG TC06_Affiliate:33 - Entered email
-2025-08-01 11:36:31 DEBUG TC06_Affiliate:36 - Entered password
-2025-08-01 11:36:31 DEBUG TC06_Affiliate:39 - Clicked 'Login' button
-2025-08-01 11:36:32 DEBUG TC06_Affiliate:27 - Clicked 'My Account'
-2025-08-01 11:36:32 DEBUG TC06_Affiliate:42 - Waited 0.5 seconds before proceeding to Affiliate section
-2025-08-01 11:36:32 DEBUG TC06_Affiliate:30 - Clicked 'Login'
-2025-08-01 11:36:32 DEBUG TC06_Affiliate:33 - Entered email
-2025-08-01 11:36:32 DEBUG TC06_Affiliate:36 - Entered password
-2025-08-01 11:36:33 DEBUG TC06_Affiliate:39 - Clicked 'Login' button
-2025-08-01 11:36:33 DEBUG TC06_Affiliate:45 - Clicked on 'Affiliate' link
-2025-08-01 11:36:33 DEBUG TC06_Affiliate:48 - Set company
-2025-08-01 11:36:33 DEBUG TC06_Affiliate:51 - Set website
-2025-08-01 11:36:33 DEBUG TC06_Affiliate:54 - Set tax information
-2025-08-01 11:36:33 DEBUG TC06_Affiliate:57 - Set cheque payment method
-2025-08-01 11:36:33 DEBUG TC06_Affiliate:42 - Waited 0.5 seconds before proceeding to Affiliate section
-2025-08-01 11:36:33 DEBUG TC06_Affiliate:60 - Waited 0.5 seconds before clicking Continue
-2025-08-01 11:36:34 DEBUG TC06_Affiliate:45 - Clicked on 'Affiliate' link
-2025-08-01 11:36:34 DEBUG TC06_Affiliate:48 - Set company
-2025-08-01 11:36:34 DEBUG TC06_Affiliate:51 - Set website
-2025-08-01 11:36:34 DEBUG TC06_Affiliate:63 - Clicked 'Continue' button
-2025-08-01 11:36:34 DEBUG TC06_Affiliate:54 - Set tax information
-2025-08-01 11:36:34 DEBUG TC06_Affiliate:66 - Alert box status: true
-2025-08-01 11:36:34 INFO  TC06_Affiliate:69 - Affiliate registration success verified
-2025-08-01 11:36:34 DEBUG TC06_Affiliate:79 - Test ended: testAffiliate
-2025-08-01 11:36:34 DEBUG TC06_Affiliate:57 - Set cheque payment method
-2025-08-01 11:36:34 DEBUG TC06_Affiliate:60 - Waited 0.5 seconds before clicking Continue
-2025-08-01 11:36:35 DEBUG BaseClass:179 - Browser closed for thread: 35
-2025-08-01 11:36:35 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 11:36:35 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 11:36:35 DEBUG TC06_Affiliate:63 - Clicked 'Continue' button
-2025-08-01 11:36:35 DEBUG TC06_Affiliate:66 - Alert box status: true
-2025-08-01 11:36:35 INFO  TC06_Affiliate:69 - Affiliate registration success verified
-2025-08-01 11:36:35 DEBUG TC06_Affiliate:79 - Test ended: testAffiliate
-2025-08-01 11:36:36 DEBUG BaseClass:179 - Browser closed for thread: 34
-2025-08-01 11:36:36 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 11:36:36 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 11:36:37 DEBUG BaseClass:115 - ChromeDriver initialized
-2025-08-01 11:36:37 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 11:36:37 DEBUG BaseClass:123 - FirefoxDriver initialized
-2025-08-01 11:36:37 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 11:36:38 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 11:36:38 DEBUG TC04_CompleteCheckOut:18 - Test started: testCheckOut
-2025-08-01 11:36:38 DEBUG TC04_CompleteCheckOut:22 - Clicked 'My Account'
-2025-08-01 11:36:39 DEBUG TC04_CompleteCheckOut:25 - Clicked 'Login'
-2025-08-01 11:36:39 DEBUG TC04_CompleteCheckOut:28 - Entered email
-2025-08-01 11:36:39 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 11:36:39 DEBUG TC04_CompleteCheckOut:18 - Test started: testCheckOut
-2025-08-01 11:36:39 DEBUG TC04_CompleteCheckOut:31 - Entered password
-2025-08-01 11:36:39 DEBUG TC04_CompleteCheckOut:34 - Clicked login
-2025-08-01 11:36:39 DEBUG TC04_CompleteCheckOut:22 - Clicked 'My Account'
-2025-08-01 11:36:39 DEBUG TC04_CompleteCheckOut:25 - Clicked 'Login'
-2025-08-01 11:36:39 DEBUG TC04_CompleteCheckOut:28 - Entered email
-2025-08-01 11:36:39 DEBUG TC04_CompleteCheckOut:31 - Entered password
-2025-08-01 11:36:39 DEBUG TC04_CompleteCheckOut:34 - Clicked login
-2025-08-01 11:36:40 DEBUG TC04_CompleteCheckOut:37 - Waited 1 second after login
-2025-08-01 11:36:40 DEBUG TC04_CompleteCheckOut:40 - Clicked on 'Laptops & Notebooks'
-2025-08-01 11:36:40 DEBUG TC04_CompleteCheckOut:43 - Clicked 'Show All' under Laptops
-2025-08-01 11:36:40 DEBUG TC04_CompleteCheckOut:47 - Scrolled down the window
-2025-08-01 11:36:40 DEBUG TC04_CompleteCheckOut:37 - Waited 1 second after login
-2025-08-01 11:36:40 DEBUG TC04_CompleteCheckOut:40 - Clicked on 'Laptops & Notebooks'
-2025-08-01 11:36:40 DEBUG TC04_CompleteCheckOut:50 - Selected product 'HP LP3065'
-2025-08-01 11:36:40 DEBUG TC04_CompleteCheckOut:53 - Formatted delivery date: 2025-08-06
-2025-08-01 11:36:41 DEBUG TC04_CompleteCheckOut:56 - Set delivery date
-2025-08-01 11:36:41 DEBUG TC04_CompleteCheckOut:43 - Clicked 'Show All' under Laptops
-2025-08-01 11:36:41 DEBUG TC04_CompleteCheckOut:59 - Clicked 'Add to Cart'
-2025-08-01 11:36:41 DEBUG TC04_CompleteCheckOut:47 - Scrolled down the window
-2025-08-01 11:36:41 DEBUG TC04_CompleteCheckOut:50 - Selected product 'HP LP3065'
-2025-08-01 11:36:41 DEBUG TC04_CompleteCheckOut:53 - Formatted delivery date: 2025-08-06
-2025-08-01 11:36:41 DEBUG TC04_CompleteCheckOut:56 - Set delivery date
-2025-08-01 11:36:41 DEBUG TC04_CompleteCheckOut:59 - Clicked 'Add to Cart'
-2025-08-01 11:36:41 DEBUG TC04_CompleteCheckOut:63 - Alert text: Success: You have added HP LP3065 to your shopping cart!
-2025-08-01 11:36:41 INFO  TC04_CompleteCheckOut:65 - Item added to cart successfully
-2025-08-01 11:36:41 DEBUG TC04_CompleteCheckOut:68 - Clicked 'Checkout'
-2025-08-01 11:36:41 DEBUG TC04_CompleteCheckOut:63 - Alert text: Success: You have added HP LP3065 to your shopping cart!
-2025-08-01 11:36:41 INFO  TC04_CompleteCheckOut:65 - Item added to cart successfully
-2025-08-01 11:36:41 DEBUG TC04_CompleteCheckOut:71 - Selected shipping address
-2025-08-01 11:36:41 DEBUG TC04_CompleteCheckOut:68 - Clicked 'Checkout'
-2025-08-01 11:36:41 DEBUG TC04_CompleteCheckOut:75 - Selected and continued shipping method
-2025-08-01 11:36:42 DEBUG TC04_CompleteCheckOut:71 - Selected shipping address
-2025-08-01 11:36:42 DEBUG TC04_CompleteCheckOut:79 - Selected and continued payment method
-2025-08-01 11:36:42 DEBUG TC04_CompleteCheckOut:75 - Selected and continued shipping method
-2025-08-01 11:36:42 DEBUG TC04_CompleteCheckOut:79 - Selected and continued payment method
-2025-08-01 11:36:44 DEBUG TC04_CompleteCheckOut:82 - Clicked 'Confirm Order'
-2025-08-01 11:36:44 DEBUG TC04_CompleteCheckOut:86 - Order confirmation message: Your order has been placed!
-2025-08-01 11:36:44 INFO  TC04_CompleteCheckOut:88 - Order placed successfully
-2025-08-01 11:36:44 DEBUG TC04_CompleteCheckOut:98 - Test ended: testCheckOut
-2025-08-01 11:36:45 DEBUG TC04_CompleteCheckOut:82 - Clicked 'Confirm Order'
-2025-08-01 11:36:45 DEBUG TC04_CompleteCheckOut:86 - Order confirmation message: Your order has been placed!
-2025-08-01 11:36:45 INFO  TC04_CompleteCheckOut:88 - Order placed successfully
-2025-08-01 11:36:45 DEBUG TC04_CompleteCheckOut:98 - Test ended: testCheckOut
-2025-08-01 11:36:45 DEBUG BaseClass:179 - Browser closed for thread: 34
-2025-08-01 11:36:45 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 11:36:45 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 11:36:45 DEBUG BaseClass:179 - Browser closed for thread: 35
-2025-08-01 11:36:45 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 11:36:45 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 11:36:47 DEBUG BaseClass:115 - ChromeDriver initialized
-2025-08-01 11:36:47 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 11:36:48 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 11:36:48 DEBUG TC01_LaunchApplication:18 - Test started: launchApp
-2025-08-01 11:36:48 DEBUG TC01_LaunchApplication:22 - HomePage object created
-2025-08-01 11:36:48 DEBUG TC01_LaunchApplication:25 - Retrieved page title: Your store of fun
-2025-08-01 11:36:48 DEBUG TC01_LaunchApplication:28 - Assertion passed: Title matched expected value
-2025-08-01 11:36:48 DEBUG TC01_LaunchApplication:38 - Test ended: launchApp
-2025-08-01 11:36:48 DEBUG BaseClass:123 - FirefoxDriver initialized
-2025-08-01 11:36:48 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 11:36:48 DEBUG BaseClass:179 - Browser closed for thread: 34
-2025-08-01 11:36:48 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 11:36:48 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 11:36:50 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 11:36:50 DEBUG TC01_LaunchApplication:18 - Test started: launchApp
-2025-08-01 11:36:50 DEBUG TC01_LaunchApplication:22 - HomePage object created
-2025-08-01 11:36:50 DEBUG TC01_LaunchApplication:25 - Retrieved page title: Your store of fun
-2025-08-01 11:36:50 DEBUG TC01_LaunchApplication:28 - Assertion passed: Title matched expected value
-2025-08-01 11:36:50 DEBUG TC01_LaunchApplication:38 - Test ended: launchApp
-2025-08-01 11:36:50 DEBUG BaseClass:115 - ChromeDriver initialized
-2025-08-01 11:36:50 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 11:36:51 DEBUG BaseClass:179 - Browser closed for thread: 35
-2025-08-01 11:36:51 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 11:36:51 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 11:36:51 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 11:36:51 DEBUG TC03_AddToCart:17 - Test started: testAddToCart
-2025-08-01 11:36:51 DEBUG TC03_AddToCart:21 - Clicked 'My Account'
-2025-08-01 11:36:52 DEBUG TC03_AddToCart:24 - Clicked 'Login'
-2025-08-01 11:36:52 DEBUG TC03_AddToCart:27 - Entered email
-2025-08-01 11:36:52 DEBUG TC03_AddToCart:30 - Entered password
-2025-08-01 11:36:52 DEBUG TC03_AddToCart:33 - Clicked login
-2025-08-01 11:36:53 DEBUG TC03_AddToCart:36 - Waited for 1 second
-2025-08-01 11:36:53 DEBUG TC03_AddToCart:39 - Clicked 'Laptops & Notebooks' menu
-2025-08-01 11:36:53 DEBUG TC03_AddToCart:42 - Clicked 'Show All'
-2025-08-01 11:36:53 DEBUG TC03_AddToCart:46 - Scrolled window
-2025-08-01 11:36:53 DEBUG TC03_AddToCart:49 - Clicked on product 'HP LP3065'
-2025-08-01 11:36:53 DEBUG TC03_AddToCart:52 - Formatted date: 2025-08-06
-2025-08-01 11:36:54 DEBUG TC03_AddToCart:55 - Set delivery date
-2025-08-01 11:36:54 DEBUG TC03_AddToCart:58 - Clicked 'Add to Cart'
-2025-08-01 11:36:54 DEBUG BaseClass:123 - FirefoxDriver initialized
-2025-08-01 11:36:54 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 11:36:54 DEBUG TC03_AddToCart:62 - Alert message: Success: You have added HP LP3065 to your shopping cart!
-2025-08-01 11:36:54 INFO  TC03_AddToCart:65 - Item successfully added to cart
-2025-08-01 11:36:54 DEBUG TC03_AddToCart:75 - Test ended: testAddToCart
-2025-08-01 11:36:54 DEBUG BaseClass:179 - Browser closed for thread: 34
-2025-08-01 11:36:54 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 11:36:54 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 11:36:55 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 11:36:55 DEBUG TC03_AddToCart:17 - Test started: testAddToCart
-2025-08-01 11:36:55 DEBUG TC03_AddToCart:21 - Clicked 'My Account'
-2025-08-01 11:36:56 DEBUG TC03_AddToCart:24 - Clicked 'Login'
-2025-08-01 11:36:56 DEBUG TC03_AddToCart:27 - Entered email
-2025-08-01 11:36:56 DEBUG TC03_AddToCart:30 - Entered password
-2025-08-01 11:36:56 DEBUG BaseClass:115 - ChromeDriver initialized
-2025-08-01 11:36:56 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 11:36:56 DEBUG TC03_AddToCart:33 - Clicked login
-2025-08-01 11:36:57 DEBUG TC03_AddToCart:36 - Waited for 1 second
-2025-08-01 11:36:57 DEBUG TC03_AddToCart:39 - Clicked 'Laptops & Notebooks' menu
-2025-08-01 11:36:57 DEBUG TC03_AddToCart:42 - Clicked 'Show All'
-2025-08-01 11:36:57 DEBUG TC03_AddToCart:46 - Scrolled window
-2025-08-01 11:36:57 DEBUG TC03_AddToCart:49 - Clicked on product 'HP LP3065'
-2025-08-01 11:36:57 DEBUG TC03_AddToCart:52 - Formatted date: 2025-08-06
-2025-08-01 11:36:57 DEBUG TC03_AddToCart:55 - Set delivery date
-2025-08-01 11:36:58 DEBUG TC03_AddToCart:58 - Clicked 'Add to Cart'
-2025-08-01 11:36:58 DEBUG TC03_AddToCart:62 - Alert message: Success: You have added HP LP3065 to your shopping cart!
-2025-08-01 11:36:58 INFO  TC03_AddToCart:65 - Item successfully added to cart
-2025-08-01 11:36:58 DEBUG TC03_AddToCart:75 - Test ended: testAddToCart
-2025-08-01 11:36:58 DEBUG BaseClass:179 - Browser closed for thread: 35
-2025-08-01 11:36:58 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 11:36:58 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 11:36:59 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 11:36:59 DEBUG TC05_AddToWishlist:17 - Test started: testAddToWishList
-2025-08-01 11:36:59 DEBUG TC05_AddToWishlist:21 - Clicked 'My Account'
-2025-08-01 11:36:59 DEBUG TC05_AddToWishlist:24 - Clicked 'Login'
-2025-08-01 11:36:59 DEBUG TC05_AddToWishlist:27 - Entered email
-2025-08-01 11:37:00 DEBUG TC05_AddToWishlist:30 - Entered password
-2025-08-01 11:37:00 DEBUG TC05_AddToWishlist:33 - Clicked 'Login' button
-2025-08-01 11:37:01 DEBUG TC05_AddToWishlist:36 - Waited for 1 second
-2025-08-01 11:37:01 DEBUG TC05_AddToWishlist:39 - Clicked 'Laptops & Notebooks' menu
-2025-08-01 11:37:01 DEBUG TC05_AddToWishlist:42 - Clicked 'Show All' under Laptops
-2025-08-01 11:37:02 DEBUG BaseClass:123 - FirefoxDriver initialized
-2025-08-01 11:37:02 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 11:37:02 DEBUG TC05_AddToWishlist:45 - Clicked 'Add to Wishlist' on product
-2025-08-01 11:37:02 DEBUG TC05_AddToWishlist:48 - Alert text received: Success: You have added HP LP3065 to your wish list!
-2025-08-01 11:37:02 INFO  TC05_AddToWishlist:51 - Item successfully added to wishlist
-2025-08-01 11:37:02 DEBUG TC05_AddToWishlist:61 - Test ended: testAddToWishList
-2025-08-01 11:37:03 DEBUG BaseClass:179 - Browser closed for thread: 34
-2025-08-01 11:37:03 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 11:37:03 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 11:37:03 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 11:37:03 DEBUG TC05_AddToWishlist:17 - Test started: testAddToWishList
-2025-08-01 11:37:03 DEBUG TC05_AddToWishlist:21 - Clicked 'My Account'
-2025-08-01 11:37:04 DEBUG TC05_AddToWishlist:24 - Clicked 'Login'
-2025-08-01 11:37:04 DEBUG TC05_AddToWishlist:27 - Entered email
-2025-08-01 11:37:04 DEBUG TC05_AddToWishlist:30 - Entered password
-2025-08-01 11:37:04 DEBUG TC05_AddToWishlist:33 - Clicked 'Login' button
-2025-08-01 11:37:04 DEBUG BaseClass:115 - ChromeDriver initialized
-2025-08-01 11:37:04 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 11:37:05 DEBUG TC05_AddToWishlist:36 - Waited for 1 second
-2025-08-01 11:37:05 DEBUG TC05_AddToWishlist:39 - Clicked 'Laptops & Notebooks' menu
-2025-08-01 11:37:05 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 11:37:05 DEBUG TC05_AddToWishlist:42 - Clicked 'Show All' under Laptops
-2025-08-01 11:37:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:06 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:06 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:06 DEBUG TC05_AddToWishlist:45 - Clicked 'Add to Wishlist' on product
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:06 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:06 DEBUG TC05_AddToWishlist:48 - Alert text received: Success: You have added HP LP3065 to your wish list!
-2025-08-01 11:37:06 INFO  TC05_AddToWishlist:51 - Item successfully added to wishlist
-2025-08-01 11:37:06 DEBUG TC05_AddToWishlist:61 - Test ended: testAddToWishList
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:06 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:06 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:06 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:06 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:06 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:06 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:06 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:06 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:06 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:06 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:06 DEBUG TC02_Login:22 - Test started: testLogin with userName=smitasharma.qa@gmail.com
-2025-08-01 11:37:06 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 11:37:06 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 11:37:06 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 11:37:06 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 11:37:07 DEBUG TC02_Login:38 - Entered email
-2025-08-01 11:37:07 DEBUG TC02_Login:41 - Entered password
-2025-08-01 11:37:07 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 11:37:07 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 11:37:07 DEBUG BaseClass:179 - Browser closed for thread: 35
-2025-08-01 11:37:07 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 11:37:07 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 11:37:07 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 11:37:07 INFO  TC02_Login:53 - Login successful for user: smitasharma.qa@gmail.com
-2025-08-01 11:37:07 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 11:37:07 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 11:37:07 DEBUG TC02_Login:72 - Test ended: testLogin for userName=smitasharma.qa@gmail.com
-2025-08-01 11:37:07 DEBUG TC02_Login:22 - Test started: testLogin with userName=nona@yahoo.com
-2025-08-01 11:37:07 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 11:37:07 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 11:37:08 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 11:37:08 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 11:37:08 DEBUG TC02_Login:38 - Entered email
-2025-08-01 11:37:08 DEBUG TC02_Login:41 - Entered password
-2025-08-01 11:37:08 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 11:37:08 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 11:37:08 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 11:37:08 INFO  TC02_Login:53 - Login successful for user: nona@yahoo.com
-2025-08-01 11:37:08 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 11:37:08 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 11:37:08 DEBUG TC02_Login:72 - Test ended: testLogin for userName=nona@yahoo.com
-2025-08-01 11:37:08 DEBUG TC02_Login:22 - Test started: testLogin with userName=sid@cloudberry.services
-2025-08-01 11:37:08 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 11:37:08 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 11:37:08 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 11:37:08 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 11:37:09 DEBUG TC02_Login:38 - Entered email
-2025-08-01 11:37:09 DEBUG TC02_Login:41 - Entered password
-2025-08-01 11:37:09 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 11:37:09 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 11:37:09 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 11:37:09 INFO  TC02_Login:53 - Login successful for user: sid@cloudberry.services
-2025-08-01 11:37:09 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 11:37:09 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 11:37:09 DEBUG TC02_Login:72 - Test ended: testLogin for userName=sid@cloudberry.services
-2025-08-01 11:37:09 DEBUG TC02_Login:22 - Test started: testLogin with userName=apushedwoman@gmail.com
-2025-08-01 11:37:09 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 11:37:09 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 11:37:09 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 11:37:09 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 11:37:10 DEBUG TC02_Login:38 - Entered email
-2025-08-01 11:37:10 DEBUG TC02_Login:41 - Entered password
-2025-08-01 11:37:10 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 11:37:10 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 11:37:10 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 11:37:10 INFO  TC02_Login:53 - Login successful for user: apushedwoman@gmail.com
-2025-08-01 11:37:10 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 11:37:10 DEBUG BaseClass:123 - FirefoxDriver initialized
-2025-08-01 11:37:10 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 11:37:10 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 11:37:10 DEBUG TC02_Login:72 - Test ended: testLogin for userName=apushedwoman@gmail.com
-2025-08-01 11:37:10 DEBUG TC02_Login:22 - Test started: testLogin with userName=hichamkhachiai@gmail.com
-2025-08-01 11:37:10 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 11:37:10 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 11:37:11 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 11:37:11 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 11:37:11 DEBUG TC02_Login:38 - Entered email
-2025-08-01 11:37:11 DEBUG TC02_Login:41 - Entered password
-2025-08-01 11:37:11 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 11:37:11 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 11:37:11 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 11:37:11 INFO  TC02_Login:53 - Login successful for user: hichamkhachiai@gmail.com
-2025-08-01 11:37:11 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 11:37:11 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 11:37:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:11 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:11 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 11:37:11 DEBUG TC02_Login:72 - Test ended: testLogin for userName=hichamkhachiai@gmail.com
-2025-08-01 11:37:11 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:11 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:12 DEBUG BaseClass:179 - Browser closed for thread: 34
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 11:37:12 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 11:37:12 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 11:37:12 DEBUG TC02_Login:22 - Test started: testLogin with userName=smitasharma.qa@gmail.com
-2025-08-01 11:37:12 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 11:37:12 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 11:37:12 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 11:37:12 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 11:37:12 DEBUG TC02_Login:38 - Entered email
-2025-08-01 11:37:12 DEBUG TC02_Login:41 - Entered password
-2025-08-01 11:37:12 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 11:37:12 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 11:37:12 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 11:37:12 INFO  TC02_Login:53 - Login successful for user: smitasharma.qa@gmail.com
-2025-08-01 11:37:13 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 11:37:13 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 11:37:13 DEBUG TC02_Login:72 - Test ended: testLogin for userName=smitasharma.qa@gmail.com
-2025-08-01 11:37:13 DEBUG TC02_Login:22 - Test started: testLogin with userName=nona@yahoo.com
-2025-08-01 11:37:13 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 11:37:13 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 11:37:13 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 11:37:13 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 11:37:13 DEBUG TC02_Login:38 - Entered email
-2025-08-01 11:37:13 DEBUG TC02_Login:41 - Entered password
-2025-08-01 11:37:13 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 11:37:13 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 11:37:13 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 11:37:13 INFO  TC02_Login:53 - Login successful for user: nona@yahoo.com
-2025-08-01 11:37:13 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 11:37:14 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 11:37:14 DEBUG TC02_Login:72 - Test ended: testLogin for userName=nona@yahoo.com
-2025-08-01 11:37:14 DEBUG TC02_Login:22 - Test started: testLogin with userName=sid@cloudberry.services
-2025-08-01 11:37:14 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 11:37:14 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 11:37:14 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 11:37:14 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 11:37:14 DEBUG TC02_Login:38 - Entered email
-2025-08-01 11:37:14 DEBUG TC02_Login:41 - Entered password
-2025-08-01 11:37:14 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 11:37:14 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 11:37:14 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 11:37:14 INFO  TC02_Login:53 - Login successful for user: sid@cloudberry.services
-2025-08-01 11:37:14 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 11:37:14 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 11:37:14 DEBUG TC02_Login:72 - Test ended: testLogin for userName=sid@cloudberry.services
-2025-08-01 11:37:14 DEBUG TC02_Login:22 - Test started: testLogin with userName=apushedwoman@gmail.com
-2025-08-01 11:37:14 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 11:37:14 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 11:37:14 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 11:37:14 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 11:37:15 DEBUG TC02_Login:38 - Entered email
-2025-08-01 11:37:15 DEBUG TC02_Login:41 - Entered password
-2025-08-01 11:37:15 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 11:37:15 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 11:37:15 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 11:37:15 INFO  TC02_Login:53 - Login successful for user: apushedwoman@gmail.com
-2025-08-01 11:37:15 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 11:37:15 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 11:37:15 DEBUG TC02_Login:72 - Test ended: testLogin for userName=apushedwoman@gmail.com
-2025-08-01 11:37:15 DEBUG TC02_Login:22 - Test started: testLogin with userName=hichamkhachiai@gmail.com
-2025-08-01 11:37:15 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 11:37:15 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 11:37:15 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 11:37:15 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 11:37:15 DEBUG TC02_Login:38 - Entered email
-2025-08-01 11:37:15 DEBUG TC02_Login:41 - Entered password
-2025-08-01 11:37:15 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 11:37:15 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 11:37:15 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 11:37:15 INFO  TC02_Login:53 - Login successful for user: hichamkhachiai@gmail.com
-2025-08-01 11:37:16 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 11:37:16 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 11:37:16 DEBUG TC02_Login:72 - Test ended: testLogin for userName=hichamkhachiai@gmail.com
-2025-08-01 11:37:16 DEBUG BaseClass:179 - Browser closed for thread: 35
-2025-08-01 12:03:18 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 12:03:18 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 12:03:18 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 12:03:18 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 12:03:20 DEBUG BaseClass:115 - ChromeDriver initialized
-2025-08-01 12:03:20 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 12:03:22 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 12:03:22 DEBUG TC06_Affiliate:19 - Test started: testAffiliate
-2025-08-01 12:03:22 DEBUG TC06_Affiliate:23 - This is a DEBUG log
-2025-08-01 12:03:22 INFO  TC06_Affiliate:24 - This is an INFO log
-2025-08-01 12:03:22 ERROR TC06_Affiliate:25 - This is an ERROR log
-2025-08-01 12:03:22 DEBUG BaseClass:123 - FirefoxDriver initialized
-2025-08-01 12:03:22 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 12:03:22 DEBUG TC06_Affiliate:27 - Clicked 'My Account'
-2025-08-01 12:03:22 DEBUG TC06_Affiliate:30 - Clicked 'Login'
-2025-08-01 12:03:23 DEBUG TC06_Affiliate:33 - Entered email
-2025-08-01 12:03:23 DEBUG TC06_Affiliate:36 - Entered password
-2025-08-01 12:03:23 DEBUG TC06_Affiliate:39 - Clicked 'Login' button
-2025-08-01 12:03:23 DEBUG TC06_Affiliate:42 - Waited 0.5 seconds before proceeding to Affiliate section
-2025-08-01 12:03:23 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 12:03:23 DEBUG TC06_Affiliate:19 - Test started: testAffiliate
-2025-08-01 12:03:23 DEBUG TC06_Affiliate:23 - This is a DEBUG log
-2025-08-01 12:03:23 INFO  TC06_Affiliate:24 - This is an INFO log
-2025-08-01 12:03:23 ERROR TC06_Affiliate:25 - This is an ERROR log
-2025-08-01 12:03:24 DEBUG TC06_Affiliate:27 - Clicked 'My Account'
-2025-08-01 12:03:24 DEBUG TC06_Affiliate:30 - Clicked 'Login'
-2025-08-01 12:03:24 DEBUG TC06_Affiliate:45 - Clicked on 'Affiliate' link
-2025-08-01 12:03:24 DEBUG TC06_Affiliate:33 - Entered email
-2025-08-01 12:03:24 DEBUG TC06_Affiliate:36 - Entered password
-2025-08-01 12:03:24 DEBUG TC06_Affiliate:48 - Set company
-2025-08-01 12:03:24 DEBUG TC06_Affiliate:39 - Clicked 'Login' button
-2025-08-01 12:03:24 DEBUG TC06_Affiliate:51 - Set website
-2025-08-01 12:03:24 DEBUG TC06_Affiliate:54 - Set tax information
-2025-08-01 12:03:24 DEBUG TC06_Affiliate:57 - Set cheque payment method
-2025-08-01 12:03:24 DEBUG TC06_Affiliate:42 - Waited 0.5 seconds before proceeding to Affiliate section
-2025-08-01 12:03:25 DEBUG TC06_Affiliate:60 - Waited 0.5 seconds before clicking Continue
-2025-08-01 12:03:25 DEBUG TC06_Affiliate:45 - Clicked on 'Affiliate' link
-2025-08-01 12:03:25 DEBUG TC06_Affiliate:48 - Set company
-2025-08-01 12:03:25 DEBUG TC06_Affiliate:51 - Set website
-2025-08-01 12:03:25 DEBUG TC06_Affiliate:54 - Set tax information
-2025-08-01 12:03:25 DEBUG TC06_Affiliate:63 - Clicked 'Continue' button
-2025-08-01 12:03:25 DEBUG TC06_Affiliate:57 - Set cheque payment method
-2025-08-01 12:03:25 DEBUG TC06_Affiliate:66 - Alert box status: true
-2025-08-01 12:03:25 INFO  TC06_Affiliate:69 - Affiliate registration success verified
-2025-08-01 12:03:25 DEBUG TC06_Affiliate:79 - Test ended: testAffiliate
-2025-08-01 12:03:25 DEBUG BaseClass:179 - Browser closed for thread: 35
-2025-08-01 12:03:25 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 12:03:25 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 12:03:26 DEBUG TC06_Affiliate:60 - Waited 0.5 seconds before clicking Continue
-2025-08-01 12:03:26 DEBUG TC06_Affiliate:63 - Clicked 'Continue' button
-2025-08-01 12:03:26 DEBUG TC06_Affiliate:66 - Alert box status: true
-2025-08-01 12:03:26 INFO  TC06_Affiliate:69 - Affiliate registration success verified
-2025-08-01 12:03:26 DEBUG TC06_Affiliate:79 - Test ended: testAffiliate
-2025-08-01 12:03:27 DEBUG BaseClass:115 - ChromeDriver initialized
-2025-08-01 12:03:27 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 12:03:27 DEBUG BaseClass:179 - Browser closed for thread: 36
-2025-08-01 12:03:27 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 12:03:27 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 12:03:28 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 12:03:28 DEBUG TC04_CompleteCheckOut:18 - Test started: testCheckOut
-2025-08-01 12:03:28 DEBUG TC04_CompleteCheckOut:22 - Clicked 'My Account'
-2025-08-01 12:03:28 DEBUG TC04_CompleteCheckOut:25 - Clicked 'Login'
-2025-08-01 12:03:28 DEBUG TC04_CompleteCheckOut:28 - Entered email
-2025-08-01 12:03:28 DEBUG TC04_CompleteCheckOut:31 - Entered password
-2025-08-01 12:03:28 DEBUG TC04_CompleteCheckOut:34 - Clicked login
-2025-08-01 12:03:29 DEBUG TC04_CompleteCheckOut:37 - Waited 1 second after login
-2025-08-01 12:03:30 DEBUG TC04_CompleteCheckOut:40 - Clicked on 'Laptops & Notebooks'
-2025-08-01 12:03:30 DEBUG TC04_CompleteCheckOut:43 - Clicked 'Show All' under Laptops
-2025-08-01 12:03:30 DEBUG TC04_CompleteCheckOut:47 - Scrolled down the window
-2025-08-01 12:03:30 DEBUG TC04_CompleteCheckOut:50 - Selected product 'HP LP3065'
-2025-08-01 12:03:30 DEBUG TC04_CompleteCheckOut:53 - Formatted delivery date: 2025-08-06
-2025-08-01 12:03:30 DEBUG BaseClass:123 - FirefoxDriver initialized
-2025-08-01 12:03:30 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 12:03:30 DEBUG TC04_CompleteCheckOut:56 - Set delivery date
-2025-08-01 12:03:30 DEBUG TC04_CompleteCheckOut:59 - Clicked 'Add to Cart'
-2025-08-01 12:03:31 DEBUG TC04_CompleteCheckOut:63 - Alert text: Success: You have added HP LP3065 to your shopping cart!
-2025-08-01 12:03:31 INFO  TC04_CompleteCheckOut:65 - Item added to cart successfully
-2025-08-01 12:03:31 DEBUG TC04_CompleteCheckOut:68 - Clicked 'Checkout'
-2025-08-01 12:03:31 DEBUG TC04_CompleteCheckOut:71 - Selected shipping address
-2025-08-01 12:03:31 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 12:03:31 DEBUG TC04_CompleteCheckOut:18 - Test started: testCheckOut
-2025-08-01 12:03:31 DEBUG TC04_CompleteCheckOut:75 - Selected and continued shipping method
-2025-08-01 12:03:32 DEBUG TC04_CompleteCheckOut:22 - Clicked 'My Account'
-2025-08-01 12:03:32 DEBUG TC04_CompleteCheckOut:79 - Selected and continued payment method
-2025-08-01 12:03:32 DEBUG TC04_CompleteCheckOut:25 - Clicked 'Login'
-2025-08-01 12:03:32 DEBUG TC04_CompleteCheckOut:28 - Entered email
-2025-08-01 12:03:32 DEBUG TC04_CompleteCheckOut:31 - Entered password
-2025-08-01 12:03:32 DEBUG TC04_CompleteCheckOut:34 - Clicked login
-2025-08-01 12:03:33 DEBUG TC04_CompleteCheckOut:37 - Waited 1 second after login
-2025-08-01 12:03:33 DEBUG TC04_CompleteCheckOut:40 - Clicked on 'Laptops & Notebooks'
-2025-08-01 12:03:33 DEBUG TC04_CompleteCheckOut:43 - Clicked 'Show All' under Laptops
-2025-08-01 12:03:33 DEBUG TC04_CompleteCheckOut:47 - Scrolled down the window
-2025-08-01 12:03:33 DEBUG TC04_CompleteCheckOut:50 - Selected product 'HP LP3065'
-2025-08-01 12:03:33 DEBUG TC04_CompleteCheckOut:53 - Formatted delivery date: 2025-08-06
-2025-08-01 12:03:34 DEBUG TC04_CompleteCheckOut:56 - Set delivery date
-2025-08-01 12:03:34 DEBUG TC04_CompleteCheckOut:59 - Clicked 'Add to Cart'
-2025-08-01 12:03:34 DEBUG TC04_CompleteCheckOut:63 - Alert text: Success: You have added HP LP3065 to your shopping cart!
-2025-08-01 12:03:34 INFO  TC04_CompleteCheckOut:65 - Item added to cart successfully
-2025-08-01 12:03:34 DEBUG TC04_CompleteCheckOut:68 - Clicked 'Checkout'
-2025-08-01 12:03:34 DEBUG TC04_CompleteCheckOut:71 - Selected shipping address
-2025-08-01 12:03:34 DEBUG TC04_CompleteCheckOut:75 - Selected and continued shipping method
-2025-08-01 12:03:34 DEBUG TC04_CompleteCheckOut:79 - Selected and continued payment method
-2025-08-01 12:03:34 DEBUG TC04_CompleteCheckOut:82 - Clicked 'Confirm Order'
-2025-08-01 12:03:34 DEBUG TC04_CompleteCheckOut:86 - Order confirmation message: Your order has been placed!
-2025-08-01 12:03:34 INFO  TC04_CompleteCheckOut:88 - Order placed successfully
-2025-08-01 12:03:34 DEBUG TC04_CompleteCheckOut:98 - Test ended: testCheckOut
-2025-08-01 12:03:35 DEBUG BaseClass:179 - Browser closed for thread: 35
-2025-08-01 12:03:35 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 12:03:35 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 12:03:36 DEBUG BaseClass:115 - ChromeDriver initialized
-2025-08-01 12:03:36 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 12:03:37 DEBUG TC04_CompleteCheckOut:82 - Clicked 'Confirm Order'
-2025-08-01 12:03:37 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 12:03:37 DEBUG TC04_CompleteCheckOut:86 - Order confirmation message: Your order has been placed!
-2025-08-01 12:03:37 INFO  TC04_CompleteCheckOut:88 - Order placed successfully
-2025-08-01 12:03:37 DEBUG TC04_CompleteCheckOut:98 - Test ended: testCheckOut
-2025-08-01 12:03:37 DEBUG TC01_LaunchApplication:18 - Test started: launchApp
-2025-08-01 12:03:37 DEBUG TC01_LaunchApplication:22 - HomePage object created
-2025-08-01 12:03:37 DEBUG TC01_LaunchApplication:25 - Retrieved page title: Your store of fun
-2025-08-01 12:03:37 DEBUG TC01_LaunchApplication:28 - Assertion passed: Title matched expected value
-2025-08-01 12:03:37 DEBUG TC01_LaunchApplication:38 - Test ended: launchApp
-2025-08-01 12:03:37 DEBUG BaseClass:179 - Browser closed for thread: 35
-2025-08-01 12:03:37 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 12:03:37 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 12:03:38 DEBUG BaseClass:179 - Browser closed for thread: 36
-2025-08-01 12:03:38 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 12:03:38 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 12:03:38 DEBUG BaseClass:115 - ChromeDriver initialized
-2025-08-01 12:03:38 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 12:03:39 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 12:03:39 DEBUG TC03_AddToCart:17 - Test started: testAddToCart
-2025-08-01 12:03:40 DEBUG TC03_AddToCart:21 - Clicked 'My Account'
-2025-08-01 12:03:40 DEBUG TC03_AddToCart:24 - Clicked 'Login'
-2025-08-01 12:03:40 DEBUG TC03_AddToCart:27 - Entered email
-2025-08-01 12:03:40 DEBUG TC03_AddToCart:30 - Entered password
-2025-08-01 12:03:40 DEBUG TC03_AddToCart:33 - Clicked login
-2025-08-01 12:03:41 DEBUG BaseClass:123 - FirefoxDriver initialized
-2025-08-01 12:03:41 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 12:03:41 DEBUG TC03_AddToCart:36 - Waited for 1 second
-2025-08-01 12:03:41 DEBUG TC03_AddToCart:39 - Clicked 'Laptops & Notebooks' menu
-2025-08-01 12:03:41 DEBUG TC03_AddToCart:42 - Clicked 'Show All'
-2025-08-01 12:03:41 DEBUG TC03_AddToCart:46 - Scrolled window
-2025-08-01 12:03:42 DEBUG TC03_AddToCart:49 - Clicked on product 'HP LP3065'
-2025-08-01 12:03:42 DEBUG TC03_AddToCart:52 - Formatted date: 2025-08-06
-2025-08-01 12:03:42 DEBUG TC03_AddToCart:55 - Set delivery date
-2025-08-01 12:03:42 DEBUG TC03_AddToCart:58 - Clicked 'Add to Cart'
-2025-08-01 12:03:42 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 12:03:42 DEBUG TC01_LaunchApplication:18 - Test started: launchApp
-2025-08-01 12:03:42 DEBUG TC01_LaunchApplication:22 - HomePage object created
-2025-08-01 12:03:42 DEBUG TC01_LaunchApplication:25 - Retrieved page title: Your store of fun
-2025-08-01 12:03:42 DEBUG TC01_LaunchApplication:28 - Assertion passed: Title matched expected value
-2025-08-01 12:03:42 DEBUG TC01_LaunchApplication:38 - Test ended: launchApp
-2025-08-01 12:03:42 DEBUG TC03_AddToCart:62 - Alert message: Success: You have added HP LP3065 to your shopping cart!
-2025-08-01 12:03:42 INFO  TC03_AddToCart:65 - Item successfully added to cart
-2025-08-01 12:03:42 DEBUG TC03_AddToCart:75 - Test ended: testAddToCart
-2025-08-01 12:03:42 DEBUG BaseClass:179 - Browser closed for thread: 35
-2025-08-01 12:03:42 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 12:03:42 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 12:03:43 DEBUG BaseClass:179 - Browser closed for thread: 36
-2025-08-01 12:03:43 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 12:03:43 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 12:03:44 DEBUG BaseClass:115 - ChromeDriver initialized
-2025-08-01 12:03:44 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 12:03:45 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 12:03:45 DEBUG TC05_AddToWishlist:17 - Test started: testAddToWishList
-2025-08-01 12:03:45 DEBUG TC05_AddToWishlist:21 - Clicked 'My Account'
-2025-08-01 12:03:45 DEBUG TC05_AddToWishlist:24 - Clicked 'Login'
-2025-08-01 12:03:45 DEBUG TC05_AddToWishlist:27 - Entered email
-2025-08-01 12:03:45 DEBUG TC05_AddToWishlist:30 - Entered password
-2025-08-01 12:03:45 DEBUG TC05_AddToWishlist:33 - Clicked 'Login' button
-2025-08-01 12:03:45 DEBUG BaseClass:123 - FirefoxDriver initialized
-2025-08-01 12:03:45 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 12:03:46 DEBUG TC05_AddToWishlist:36 - Waited for 1 second
-2025-08-01 12:03:46 DEBUG TC05_AddToWishlist:39 - Clicked 'Laptops & Notebooks' menu
-2025-08-01 12:03:46 DEBUG TC05_AddToWishlist:42 - Clicked 'Show All' under Laptops
-2025-08-01 12:03:46 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 12:03:46 DEBUG TC03_AddToCart:17 - Test started: testAddToCart
-2025-08-01 12:03:47 DEBUG TC03_AddToCart:21 - Clicked 'My Account'
-2025-08-01 12:03:47 DEBUG TC03_AddToCart:24 - Clicked 'Login'
-2025-08-01 12:03:47 DEBUG TC03_AddToCart:27 - Entered email
-2025-08-01 12:03:47 DEBUG TC03_AddToCart:30 - Entered password
-2025-08-01 12:03:47 DEBUG TC03_AddToCart:33 - Clicked login
-2025-08-01 12:03:47 DEBUG TC05_AddToWishlist:45 - Clicked 'Add to Wishlist' on product
-2025-08-01 12:03:48 DEBUG TC05_AddToWishlist:48 - Alert text received: Success: You have added HP LP3065 to your wish list!
-2025-08-01 12:03:48 INFO  TC05_AddToWishlist:51 - Item successfully added to wishlist
-2025-08-01 12:03:48 DEBUG TC05_AddToWishlist:61 - Test ended: testAddToWishList
-2025-08-01 12:03:48 DEBUG BaseClass:179 - Browser closed for thread: 35
-2025-08-01 12:03:48 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
-2025-08-01 12:03:48 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 12:03:48 DEBUG TC03_AddToCart:36 - Waited for 1 second
-2025-08-01 12:03:48 DEBUG TC03_AddToCart:39 - Clicked 'Laptops & Notebooks' menu
-2025-08-01 12:03:48 DEBUG TC03_AddToCart:42 - Clicked 'Show All'
-2025-08-01 12:03:48 DEBUG TC03_AddToCart:46 - Scrolled window
-2025-08-01 12:03:48 DEBUG TC03_AddToCart:49 - Clicked on product 'HP LP3065'
-2025-08-01 12:03:48 DEBUG TC03_AddToCart:52 - Formatted date: 2025-08-06
-2025-08-01 12:03:49 DEBUG TC03_AddToCart:55 - Set delivery date
-2025-08-01 12:03:49 DEBUG BaseClass:115 - ChromeDriver initialized
-2025-08-01 12:03:49 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 12:03:49 DEBUG TC03_AddToCart:58 - Clicked 'Add to Cart'
-2025-08-01 12:03:49 DEBUG TC03_AddToCart:62 - Alert message: Success: You have added HP LP3065 to your shopping cart!
-2025-08-01 12:03:49 INFO  TC03_AddToCart:65 - Item successfully added to cart
-2025-08-01 12:03:49 DEBUG TC03_AddToCart:75 - Test ended: testAddToCart
-2025-08-01 12:03:50 DEBUG BaseClass:179 - Browser closed for thread: 36
-2025-08-01 12:03:50 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 12:03:50 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 12:03:50 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:03:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:03:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:03:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:03:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:03:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:03:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:03:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:03:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:03:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:03:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:03:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:03:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:03:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:03:50 DEBUG TC02_Login:22 - Test started: testLogin with userName=smitasharma.qa@gmail.com
-2025-08-01 12:03:50 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 12:03:51 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 12:03:51 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 12:03:51 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 12:03:51 DEBUG TC02_Login:38 - Entered email
-2025-08-01 12:03:51 DEBUG TC02_Login:41 - Entered password
-2025-08-01 12:03:51 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 12:03:51 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 12:03:51 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 12:03:51 INFO  TC02_Login:53 - Login successful for user: smitasharma.qa@gmail.com
-2025-08-01 12:03:51 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 12:03:52 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 12:03:52 DEBUG TC02_Login:72 - Test ended: testLogin for userName=smitasharma.qa@gmail.com
-2025-08-01 12:03:52 DEBUG TC02_Login:22 - Test started: testLogin with userName=nona@yahoo.com
-2025-08-01 12:03:52 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 12:03:52 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 12:03:52 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 12:03:52 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 12:03:52 DEBUG TC02_Login:38 - Entered email
-2025-08-01 12:03:52 DEBUG TC02_Login:41 - Entered password
-2025-08-01 12:03:52 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 12:03:52 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 12:03:52 DEBUG BaseClass:123 - FirefoxDriver initialized
-2025-08-01 12:03:52 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 12:03:52 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 12:03:52 INFO  TC02_Login:53 - Login successful for user: nona@yahoo.com
-2025-08-01 12:03:52 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 12:03:53 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 12:03:53 DEBUG TC02_Login:72 - Test ended: testLogin for userName=nona@yahoo.com
-2025-08-01 12:03:53 DEBUG TC02_Login:22 - Test started: testLogin with userName=sid@cloudberry.services
-2025-08-01 12:03:53 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 12:03:53 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 12:03:53 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 12:03:53 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 12:03:53 DEBUG TC02_Login:38 - Entered email
-2025-08-01 12:03:53 DEBUG TC02_Login:41 - Entered password
-2025-08-01 12:03:53 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 12:03:53 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 12:03:53 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 12:03:53 INFO  TC02_Login:53 - Login successful for user: sid@cloudberry.services
-2025-08-01 12:03:53 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 12:03:53 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 12:03:53 DEBUG TC02_Login:72 - Test ended: testLogin for userName=sid@cloudberry.services
-2025-08-01 12:03:53 DEBUG TC02_Login:22 - Test started: testLogin with userName=apushedwoman@gmail.com
-2025-08-01 12:03:53 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 12:03:53 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 12:03:53 DEBUG TC05_AddToWishlist:17 - Test started: testAddToWishList
-2025-08-01 12:03:53 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 12:03:54 DEBUG TC05_AddToWishlist:21 - Clicked 'My Account'
-2025-08-01 12:03:54 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 12:03:54 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 12:03:54 DEBUG TC02_Login:38 - Entered email
-2025-08-01 12:03:54 DEBUG TC02_Login:41 - Entered password
-2025-08-01 12:03:54 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 12:03:54 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 12:03:54 DEBUG TC05_AddToWishlist:24 - Clicked 'Login'
-2025-08-01 12:03:54 DEBUG TC05_AddToWishlist:27 - Entered email
-2025-08-01 12:03:54 DEBUG TC05_AddToWishlist:30 - Entered password
-2025-08-01 12:03:54 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 12:03:54 INFO  TC02_Login:53 - Login successful for user: apushedwoman@gmail.com
-2025-08-01 12:03:54 DEBUG TC05_AddToWishlist:33 - Clicked 'Login' button
-2025-08-01 12:03:54 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 12:03:54 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 12:03:54 DEBUG TC02_Login:72 - Test ended: testLogin for userName=apushedwoman@gmail.com
-2025-08-01 12:03:54 DEBUG TC02_Login:22 - Test started: testLogin with userName=hichamkhachiai@gmail.com
-2025-08-01 12:03:54 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 12:03:54 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 12:03:54 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 12:03:54 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 12:03:54 DEBUG TC02_Login:38 - Entered email
-2025-08-01 12:03:54 DEBUG TC02_Login:41 - Entered password
-2025-08-01 12:03:54 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 12:03:54 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 12:03:55 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 12:03:55 INFO  TC02_Login:53 - Login successful for user: hichamkhachiai@gmail.com
-2025-08-01 12:03:55 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 12:03:55 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 12:03:55 DEBUG TC02_Login:72 - Test ended: testLogin for userName=hichamkhachiai@gmail.com
-2025-08-01 12:03:55 DEBUG TC05_AddToWishlist:36 - Waited for 1 second
-2025-08-01 12:03:55 DEBUG BaseClass:179 - Browser closed for thread: 35
-2025-08-01 12:03:55 DEBUG TC05_AddToWishlist:39 - Clicked 'Laptops & Notebooks' menu
-2025-08-01 12:03:55 DEBUG TC05_AddToWishlist:42 - Clicked 'Show All' under Laptops
-2025-08-01 12:03:56 DEBUG TC05_AddToWishlist:45 - Clicked 'Add to Wishlist' on product
-2025-08-01 12:03:56 DEBUG TC05_AddToWishlist:48 - Alert text received: Success: You have added HP LP3065 to your wish list!
-2025-08-01 12:03:56 INFO  TC05_AddToWishlist:51 - Item successfully added to wishlist
-2025-08-01 12:03:56 DEBUG TC05_AddToWishlist:61 - Test ended: testAddToWishList
-2025-08-01 12:03:57 DEBUG BaseClass:179 - Browser closed for thread: 36
-2025-08-01 12:03:57 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
-2025-08-01 12:03:57 DEBUG BaseClass:62 - Loaded config properties successfully.
-2025-08-01 12:03:59 DEBUG BaseClass:123 - FirefoxDriver initialized
-2025-08-01 12:03:59 DEBUG BaseClass:131 - Driver assigned to thread-local storage
-2025-08-01 12:04:01 DEBUG BaseClass:150 - Application launched at URL: https://cloudberrystore.services/
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:04:01 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:04:01 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:04:01 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:04:01 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:04:01 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:04:01 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:04:01 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:04:01 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:04:01 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:04:01 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:04:01 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
-2025-08-01 12:04:01 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
-2025-08-01 12:04:01 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
-2025-08-01 12:04:01 DEBUG TC02_Login:22 - Test started: testLogin with userName=smitasharma.qa@gmail.com
-2025-08-01 12:04:01 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 12:04:01 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 12:04:01 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 12:04:01 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 12:04:02 DEBUG TC02_Login:38 - Entered email
-2025-08-01 12:04:02 DEBUG TC02_Login:41 - Entered password
-2025-08-01 12:04:02 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 12:04:02 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 12:04:02 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 12:04:02 INFO  TC02_Login:53 - Login successful for user: smitasharma.qa@gmail.com
-2025-08-01 12:04:02 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 12:04:02 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 12:04:02 DEBUG TC02_Login:72 - Test ended: testLogin for userName=smitasharma.qa@gmail.com
-2025-08-01 12:04:02 DEBUG TC02_Login:22 - Test started: testLogin with userName=nona@yahoo.com
-2025-08-01 12:04:02 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 12:04:02 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 12:04:02 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 12:04:02 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 12:04:02 DEBUG TC02_Login:38 - Entered email
-2025-08-01 12:04:02 DEBUG TC02_Login:41 - Entered password
-2025-08-01 12:04:02 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 12:04:02 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 12:04:02 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 12:04:02 INFO  TC02_Login:53 - Login successful for user: nona@yahoo.com
-2025-08-01 12:04:02 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 12:04:03 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 12:04:03 DEBUG TC02_Login:72 - Test ended: testLogin for userName=nona@yahoo.com
-2025-08-01 12:04:03 DEBUG TC02_Login:22 - Test started: testLogin with userName=sid@cloudberry.services
-2025-08-01 12:04:03 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 12:04:03 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 12:04:03 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 12:04:03 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 12:04:03 DEBUG TC02_Login:38 - Entered email
-2025-08-01 12:04:03 DEBUG TC02_Login:41 - Entered password
-2025-08-01 12:04:03 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 12:04:03 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 12:04:03 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 12:04:03 INFO  TC02_Login:53 - Login successful for user: sid@cloudberry.services
-2025-08-01 12:04:03 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 12:04:03 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 12:04:03 DEBUG TC02_Login:72 - Test ended: testLogin for userName=sid@cloudberry.services
-2025-08-01 12:04:03 DEBUG TC02_Login:22 - Test started: testLogin with userName=apushedwoman@gmail.com
-2025-08-01 12:04:03 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 12:04:03 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 12:04:03 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 12:04:03 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 12:04:03 DEBUG TC02_Login:38 - Entered email
-2025-08-01 12:04:04 DEBUG TC02_Login:41 - Entered password
-2025-08-01 12:04:04 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 12:04:04 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 12:04:04 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 12:04:04 INFO  TC02_Login:53 - Login successful for user: apushedwoman@gmail.com
-2025-08-01 12:04:04 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 12:04:04 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 12:04:04 DEBUG TC02_Login:72 - Test ended: testLogin for userName=apushedwoman@gmail.com
-2025-08-01 12:04:04 DEBUG TC02_Login:22 - Test started: testLogin with userName=hichamkhachiai@gmail.com
-2025-08-01 12:04:04 DEBUG TC02_Login:26 - HomePage object initialized
-2025-08-01 12:04:04 DEBUG TC02_Login:29 - Clicked 'My Account'
-2025-08-01 12:04:04 DEBUG TC02_Login:32 - Clicked 'Login'
-2025-08-01 12:04:04 DEBUG TC02_Login:35 - LoginPage object initialized
-2025-08-01 12:04:04 DEBUG TC02_Login:38 - Entered email
-2025-08-01 12:04:04 DEBUG TC02_Login:41 - Entered password
-2025-08-01 12:04:04 DEBUG TC02_Login:44 - Clicked login
-2025-08-01 12:04:04 DEBUG TC02_Login:47 - MyAccountPage object initialized
-2025-08-01 12:04:04 DEBUG TC02_Login:50 - Account confirmation message: My Account
-2025-08-01 12:04:04 INFO  TC02_Login:53 - Login successful for user: hichamkhachiai@gmail.com
-2025-08-01 12:04:04 DEBUG TC02_Login:57 - Clicked 'My Account' again
-2025-08-01 12:04:05 DEBUG TC02_Login:60 - Clicked 'Logout'
-2025-08-01 12:04:05 DEBUG TC02_Login:72 - Test ended: testLogin for userName=hichamkhachiai@gmail.com
-2025-08-01 12:04:05 DEBUG BaseClass:179 - Browser closed for thread: 36
+2025-08-06 12:11:05 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
+2025-08-06 12:11:05 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
+2025-08-06 12:11:05 DEBUG BaseClass:62 - Loaded config properties successfully.
+2025-08-06 12:11:05 DEBUG BaseClass:62 - Loaded config properties successfully.
+2025-08-06 12:12:19 DEBUG BaseClass:123 - FirefoxDriver initialized
+2025-08-06 12:12:19 DEBUG BaseClass:131 - Driver assigned to thread-local storage
+2025-08-06 12:12:22 DEBUG BaseClass:151 - Application launched at URL: https://cloudberrystore.services/
+2025-08-06 12:12:22 DEBUG TC06_Affiliate:19 - Test started: testAffiliate
+2025-08-06 12:12:22 DEBUG TC06_Affiliate:23 - This is a DEBUG log
+2025-08-06 12:12:22 INFO  TC06_Affiliate:24 - This is an INFO log
+2025-08-06 12:12:22 ERROR TC06_Affiliate:25 - This is an ERROR log
+2025-08-06 12:12:22 DEBUG TC06_Affiliate:27 - Clicked 'My Account'
+2025-08-06 12:12:23 DEBUG TC06_Affiliate:30 - Clicked 'Login'
+2025-08-06 12:12:23 DEBUG TC06_Affiliate:33 - Entered email
+2025-08-06 12:12:23 DEBUG TC06_Affiliate:36 - Entered password
+2025-08-06 12:12:23 DEBUG TC06_Affiliate:39 - Clicked 'Login' button
+2025-08-06 12:12:24 DEBUG TC06_Affiliate:42 - Waited 0.5 seconds before proceeding to Affiliate section
+2025-08-06 12:12:24 DEBUG BaseClass:115 - ChromeDriver initialized
+2025-08-06 12:12:24 DEBUG BaseClass:131 - Driver assigned to thread-local storage
+2025-08-06 12:12:25 DEBUG TC06_Affiliate:45 - Clicked on 'Affiliate' link
+2025-08-06 12:12:25 DEBUG TC06_Affiliate:48 - Set company
+2025-08-06 12:12:25 DEBUG TC06_Affiliate:51 - Set website
+2025-08-06 12:12:25 DEBUG TC06_Affiliate:54 - Set tax information
+2025-08-06 12:12:25 DEBUG TC06_Affiliate:57 - Set cheque payment method
+2025-08-06 12:12:26 DEBUG TC06_Affiliate:60 - Waited 0.5 seconds before clicking Continue
+2025-08-06 12:12:27 DEBUG TC06_Affiliate:63 - Clicked 'Continue' button
+2025-08-06 12:12:27 DEBUG TC06_Affiliate:66 - Alert box status: true
+2025-08-06 12:12:27 INFO  TC06_Affiliate:69 - Affiliate registration success verified
+2025-08-06 12:12:27 DEBUG TC06_Affiliate:79 - Test ended: testAffiliate
+2025-08-06 12:12:28 DEBUG BaseClass:151 - Application launched at URL: https://cloudberrystore.services/
+2025-08-06 12:12:28 DEBUG TC06_Affiliate:19 - Test started: testAffiliate
+2025-08-06 12:12:28 DEBUG TC06_Affiliate:23 - This is a DEBUG log
+2025-08-06 12:12:28 INFO  TC06_Affiliate:24 - This is an INFO log
+2025-08-06 12:12:28 ERROR TC06_Affiliate:25 - This is an ERROR log
+2025-08-06 12:12:30 DEBUG TC06_Affiliate:27 - Clicked 'My Account'
+2025-08-06 12:12:30 DEBUG BaseClass:180 - Browser closed for thread: 36
+2025-08-06 12:12:30 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
+2025-08-06 12:12:30 DEBUG BaseClass:62 - Loaded config properties successfully.
+2025-08-06 12:12:31 DEBUG TC06_Affiliate:30 - Clicked 'Login'
+2025-08-06 12:12:32 DEBUG TC06_Affiliate:33 - Entered email
+2025-08-06 12:12:32 DEBUG TC06_Affiliate:36 - Entered password
+2025-08-06 12:12:34 DEBUG TC06_Affiliate:39 - Clicked 'Login' button
+2025-08-06 12:12:34 DEBUG TC06_Affiliate:42 - Waited 0.5 seconds before proceeding to Affiliate section
+2025-08-06 12:12:36 DEBUG TC06_Affiliate:45 - Clicked on 'Affiliate' link
+2025-08-06 12:12:36 DEBUG BaseClass:123 - FirefoxDriver initialized
+2025-08-06 12:12:36 DEBUG BaseClass:131 - Driver assigned to thread-local storage
+2025-08-06 12:12:37 DEBUG TC06_Affiliate:48 - Set company
+2025-08-06 12:12:37 DEBUG TC06_Affiliate:51 - Set website
+2025-08-06 12:12:37 DEBUG TC06_Affiliate:54 - Set tax information
+2025-08-06 12:12:37 DEBUG BaseClass:151 - Application launched at URL: https://cloudberrystore.services/
+2025-08-06 12:12:37 DEBUG TC04_CompleteCheckOut:18 - Test started: testCheckOut
+2025-08-06 12:12:38 DEBUG TC06_Affiliate:57 - Set cheque payment method
+2025-08-06 12:12:38 DEBUG TC04_CompleteCheckOut:22 - Clicked 'My Account'
+2025-08-06 12:12:38 DEBUG TC04_CompleteCheckOut:25 - Clicked 'Login'
+2025-08-06 12:12:38 DEBUG TC06_Affiliate:60 - Waited 0.5 seconds before clicking Continue
+2025-08-06 12:12:38 DEBUG TC04_CompleteCheckOut:28 - Entered email
+2025-08-06 12:12:38 DEBUG TC04_CompleteCheckOut:31 - Entered password
+2025-08-06 12:12:38 DEBUG TC04_CompleteCheckOut:34 - Clicked login
+2025-08-06 12:12:39 DEBUG TC06_Affiliate:63 - Clicked 'Continue' button
+2025-08-06 12:12:39 DEBUG TC04_CompleteCheckOut:37 - Waited 1 second after login
+2025-08-06 12:12:39 DEBUG TC06_Affiliate:66 - Alert box status: true
+2025-08-06 12:12:39 INFO  TC06_Affiliate:69 - Affiliate registration success verified
+2025-08-06 12:12:39 DEBUG TC06_Affiliate:79 - Test ended: testAffiliate
+2025-08-06 12:12:40 DEBUG TC04_CompleteCheckOut:40 - Clicked on 'Laptops & Notebooks'
+2025-08-06 12:12:40 DEBUG BaseClass:180 - Browser closed for thread: 35
+2025-08-06 12:12:40 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
+2025-08-06 12:12:40 DEBUG BaseClass:62 - Loaded config properties successfully.
+2025-08-06 12:12:40 DEBUG TC04_CompleteCheckOut:43 - Clicked 'Show All' under Laptops
+2025-08-06 12:12:40 DEBUG TC04_CompleteCheckOut:47 - Scrolled down the window
+2025-08-06 12:12:40 DEBUG TC04_CompleteCheckOut:50 - Selected product 'HP LP3065'
+2025-08-06 12:12:40 DEBUG TC04_CompleteCheckOut:53 - Formatted delivery date: 2025-08-11
+2025-08-06 12:12:40 DEBUG TC04_CompleteCheckOut:56 - Set delivery date
+2025-08-06 12:12:40 DEBUG TC04_CompleteCheckOut:59 - Clicked 'Add to Cart'
+2025-08-06 12:12:40 DEBUG TC04_CompleteCheckOut:63 - Alert text: Success: You have added HP LP3065 to your shopping cart!
+2025-08-06 12:12:40 INFO  TC04_CompleteCheckOut:65 - Item added to cart successfully
+2025-08-06 12:12:41 DEBUG TC04_CompleteCheckOut:68 - Clicked 'Checkout'
+2025-08-06 12:12:41 DEBUG TC04_CompleteCheckOut:71 - Selected shipping address
+2025-08-06 12:12:41 DEBUG TC04_CompleteCheckOut:75 - Selected and continued shipping method
+2025-08-06 12:12:41 DEBUG TC04_CompleteCheckOut:79 - Selected and continued payment method
+2025-08-06 12:12:44 DEBUG TC04_CompleteCheckOut:82 - Clicked 'Confirm Order'
+2025-08-06 12:12:44 DEBUG TC04_CompleteCheckOut:86 - Order confirmation message: Your order has been placed!
+2025-08-06 12:12:44 INFO  TC04_CompleteCheckOut:88 - Order placed successfully
+2025-08-06 12:12:44 DEBUG TC04_CompleteCheckOut:98 - Test ended: testCheckOut
+2025-08-06 12:12:45 DEBUG BaseClass:180 - Browser closed for thread: 36
+2025-08-06 12:12:45 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
+2025-08-06 12:12:45 DEBUG BaseClass:62 - Loaded config properties successfully.
+2025-08-06 12:12:48 DEBUG BaseClass:115 - ChromeDriver initialized
+2025-08-06 12:12:48 DEBUG BaseClass:131 - Driver assigned to thread-local storage
+2025-08-06 12:12:51 DEBUG BaseClass:123 - FirefoxDriver initialized
+2025-08-06 12:12:51 DEBUG BaseClass:131 - Driver assigned to thread-local storage
+2025-08-06 12:12:52 DEBUG BaseClass:151 - Application launched at URL: https://cloudberrystore.services/
+2025-08-06 12:12:52 DEBUG TC04_CompleteCheckOut:18 - Test started: testCheckOut
+2025-08-06 12:12:52 DEBUG BaseClass:151 - Application launched at URL: https://cloudberrystore.services/
+2025-08-06 12:12:52 DEBUG TC01_LaunchApplication:16 - Test started: launchApp
+2025-08-06 12:12:52 DEBUG TC01_LaunchApplication:20 - Retrieved page title: Your store of fun
+2025-08-06 12:12:52 DEBUG TC01_LaunchApplication:23 - Assertion passed: Title matched expected value
+2025-08-06 12:12:52 DEBUG TC01_LaunchApplication:33 - Test ended: launchApp
+2025-08-06 12:12:53 DEBUG TC04_CompleteCheckOut:22 - Clicked 'My Account'
+2025-08-06 12:12:53 DEBUG BaseClass:180 - Browser closed for thread: 36
+2025-08-06 12:12:53 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
+2025-08-06 12:12:53 DEBUG BaseClass:62 - Loaded config properties successfully.
+2025-08-06 12:12:55 DEBUG TC04_CompleteCheckOut:25 - Clicked 'Login'
+2025-08-06 12:12:56 DEBUG TC04_CompleteCheckOut:28 - Entered email
+2025-08-06 12:12:57 DEBUG TC04_CompleteCheckOut:31 - Entered password
+2025-08-06 12:12:59 DEBUG TC04_CompleteCheckOut:34 - Clicked login
+2025-08-06 12:12:59 DEBUG BaseClass:123 - FirefoxDriver initialized
+2025-08-06 12:12:59 DEBUG BaseClass:131 - Driver assigned to thread-local storage
+2025-08-06 12:13:00 DEBUG TC04_CompleteCheckOut:37 - Waited 1 second after login
+2025-08-06 12:13:00 DEBUG TC04_CompleteCheckOut:40 - Clicked on 'Laptops & Notebooks'
+2025-08-06 12:13:01 DEBUG BaseClass:151 - Application launched at URL: https://cloudberrystore.services/
+2025-08-06 12:13:01 DEBUG TC03_AddToCart:17 - Test started: testAddToCart
+2025-08-06 12:13:01 DEBUG TC03_AddToCart:21 - Clicked 'My Account'
+2025-08-06 12:13:01 DEBUG TC03_AddToCart:24 - Clicked 'Login'
+2025-08-06 12:13:01 DEBUG TC03_AddToCart:27 - Entered email
+2025-08-06 12:13:01 DEBUG TC03_AddToCart:30 - Entered password
+2025-08-06 12:13:01 DEBUG TC04_CompleteCheckOut:43 - Clicked 'Show All' under Laptops
+2025-08-06 12:13:02 DEBUG TC04_CompleteCheckOut:47 - Scrolled down the window
+2025-08-06 12:13:02 DEBUG TC03_AddToCart:33 - Clicked login
+2025-08-06 12:13:02 DEBUG TC04_CompleteCheckOut:50 - Selected product 'HP LP3065'
+2025-08-06 12:13:02 DEBUG TC04_CompleteCheckOut:53 - Formatted delivery date: 2025-08-11
+2025-08-06 12:13:02 DEBUG TC04_CompleteCheckOut:56 - Set delivery date
+2025-08-06 12:13:03 DEBUG TC03_AddToCart:36 - Waited for 1 second
+2025-08-06 12:13:03 DEBUG TC03_AddToCart:39 - Clicked 'Laptops & Notebooks' menu
+2025-08-06 12:13:03 DEBUG TC04_CompleteCheckOut:59 - Clicked 'Add to Cart'
+2025-08-06 12:13:03 DEBUG TC03_AddToCart:42 - Clicked 'Show All'
+2025-08-06 12:13:03 DEBUG TC03_AddToCart:46 - Scrolled window
+2025-08-06 12:13:03 DEBUG TC03_AddToCart:49 - Clicked on product 'HP LP3065'
+2025-08-06 12:13:03 DEBUG TC03_AddToCart:52 - Formatted date: 2025-08-11
+2025-08-06 12:13:03 DEBUG TC03_AddToCart:55 - Set delivery date
+2025-08-06 12:13:03 DEBUG TC03_AddToCart:58 - Clicked 'Add to Cart'
+2025-08-06 12:13:03 DEBUG TC03_AddToCart:62 - Alert message: Success: You have added HP LP3065 to your shopping cart!
+2025-08-06 12:13:03 INFO  TC03_AddToCart:65 - Item successfully added to cart
+2025-08-06 12:13:03 DEBUG TC03_AddToCart:75 - Test ended: testAddToCart
+2025-08-06 12:13:04 DEBUG TC04_CompleteCheckOut:63 - Alert text: Success: You have added HP LP3065 to your shopping cart!
+2025-08-06 12:13:04 INFO  TC04_CompleteCheckOut:65 - Item added to cart successfully
+2025-08-06 12:13:05 DEBUG TC04_CompleteCheckOut:68 - Clicked 'Checkout'
+2025-08-06 12:13:05 DEBUG BaseClass:180 - Browser closed for thread: 36
+2025-08-06 12:13:05 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
+2025-08-06 12:13:05 DEBUG BaseClass:62 - Loaded config properties successfully.
+2025-08-06 12:13:05 DEBUG TC04_CompleteCheckOut:71 - Selected shipping address
+2025-08-06 12:13:06 DEBUG TC04_CompleteCheckOut:75 - Selected and continued shipping method
+2025-08-06 12:13:07 DEBUG TC04_CompleteCheckOut:79 - Selected and continued payment method
+2025-08-06 12:13:10 DEBUG BaseClass:123 - FirefoxDriver initialized
+2025-08-06 12:13:10 DEBUG BaseClass:131 - Driver assigned to thread-local storage
+2025-08-06 12:13:10 DEBUG TC04_CompleteCheckOut:82 - Clicked 'Confirm Order'
+2025-08-06 12:13:11 DEBUG TC04_CompleteCheckOut:86 - Order confirmation message: Your order has been placed!
+2025-08-06 12:13:11 INFO  TC04_CompleteCheckOut:88 - Order placed successfully
+2025-08-06 12:13:11 DEBUG TC04_CompleteCheckOut:98 - Test ended: testCheckOut
+2025-08-06 12:13:11 DEBUG BaseClass:180 - Browser closed for thread: 35
+2025-08-06 12:13:11 DEBUG BaseClass:57 - Starting openApp with browser: chrome and OS: macOS
+2025-08-06 12:13:11 DEBUG BaseClass:62 - Loaded config properties successfully.
+2025-08-06 12:13:12 DEBUG BaseClass:151 - Application launched at URL: https://cloudberrystore.services/
+2025-08-06 12:13:12 DEBUG TC05_AddToWishlist:17 - Test started: testAddToWishList
+2025-08-06 12:13:12 DEBUG TC05_AddToWishlist:21 - Clicked 'My Account'
+2025-08-06 12:13:12 DEBUG TC05_AddToWishlist:24 - Clicked 'Login'
+2025-08-06 12:13:12 DEBUG TC05_AddToWishlist:27 - Entered email
+2025-08-06 12:13:12 DEBUG TC05_AddToWishlist:30 - Entered password
+2025-08-06 12:13:12 DEBUG TC05_AddToWishlist:33 - Clicked 'Login' button
+2025-08-06 12:13:13 DEBUG TC05_AddToWishlist:36 - Waited for 1 second
+2025-08-06 12:13:14 DEBUG TC05_AddToWishlist:39 - Clicked 'Laptops & Notebooks' menu
+2025-08-06 12:13:14 DEBUG TC05_AddToWishlist:42 - Clicked 'Show All' under Laptops
+2025-08-06 12:13:15 DEBUG TC05_AddToWishlist:45 - Clicked 'Add to Wishlist' on product
+2025-08-06 12:13:15 DEBUG TC05_AddToWishlist:48 - Alert text received: Success: You have added HP LP3065 to your wish list!
+2025-08-06 12:13:15 INFO  TC05_AddToWishlist:51 - Item successfully added to wishlist
+2025-08-06 12:13:15 DEBUG TC05_AddToWishlist:61 - Test ended: testAddToWishList
+2025-08-06 12:13:16 DEBUG BaseClass:180 - Browser closed for thread: 36
+2025-08-06 12:13:16 DEBUG BaseClass:57 - Starting openApp with browser: firefox and OS: macOS
+2025-08-06 12:13:16 DEBUG BaseClass:62 - Loaded config properties successfully.

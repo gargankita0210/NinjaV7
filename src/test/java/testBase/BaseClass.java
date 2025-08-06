@@ -129,6 +129,7 @@ public class BaseClass {
 		}
 		driver.set(localDriver);
 		logger.debug("Driver assigned to thread-local storage");
+		
 		// Page objects
 		try {
 			homePage = new HomePage(getDriver());
